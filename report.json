@@ -1,0 +1,183 @@
+
+VIN Report:
+{
+  "REPORTS": {
+    "REPORT": {
+      "type": "BASIC",
+      "VINPOWER": {
+        "version": "PASSENGER, MPV, LIGHT TRUCK 2025 06.005; PASSENGER, MPV, LIGHT TRUCK 2025 06.005; OTHER PASSENGER VEHICLES 2025 06.005; TRUCKS FILE 2025 06.005; MOTORCYCLES FILE 2025 06.005; TRAILERS 2025 06.005; TRAILERS 2025 06.005;",
+        "DATABASE": {
+          "version": "2025.06.005",
+          "MODULE": [
+            {
+              "name": "PASSENGER, MPV, LIGHT TRUCK",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "PASSENGER, MPV, LIGHT TRUCK",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "OTHER PASSENGER VEHICLES",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "TRUCKS FILE",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "MOTORCYCLES FILE",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "TRAILERS",
+              "version": "2025.06.005"
+            },
+            {
+              "name": "TRAILERS",
+              "version": "2025.06.005"
+            }
+          ]
+        },
+        "VIN": {
+          "number": "1J4PR5GK3AC144323",
+          "DECODED": {
+            "Make": "Jeep",
+            "Model": "Grand Cherokee",
+            "Model_Year": "2010",
+            "ITEM": [
+              {
+                "name": "Model Year",
+                "value": "2010"
+              },
+              {
+                "name": "Make",
+                "value": "Jeep"
+              },
+              {
+                "name": "Model",
+                "value": "Grand Cherokee"
+              },
+              {
+                "name": "Trim Level",
+                "value": "Limited"
+              },
+              {
+                "name": "Body Type",
+                "value": "4 Door Wagon"
+              },
+              {
+                "name": "Manufacturer",
+                "value": "Chrysler Group LLC"
+              },
+              {
+                "name": "Production Seq. Number",
+                "value": "144323"
+              },
+              {
+                "name": "Engine Type",
+                "value": "V6, 3.7L (225 CID)"
+              },
+              {
+                "name": "Fuel Type",
+                "value": "Gasoline"
+              },
+              {
+                "name": "Engine Code",
+                "value": "K"
+              },
+              {
+                "name": "Drive Line Type",
+                "value": "4WD"
+              },
+              {
+                "name": "Vehicle Type",
+                "value": "Multipurpose Vehicle (MPV)"
+              },
+              {
+                "name": "Vehicle Class",
+                "value": "Full-size MPV"
+              },
+              {
+                "name": "Brake System",
+                "value": "Hydraulic"
+              },
+              {
+                "name": "Restraint System",
+                "value": "Dual Air Bag; Seat Belts; Less Side Air Bags- Sales Code CGS; Less Side Curtain Air Bag- Sales Code CJ5"
+              },
+              {
+                "name": "Country",
+                "value": "UNITED STATES"
+              },
+              {
+                "name": "Assy. Plant",
+                "value": "Jefferson North Assembly"
+              },
+              {
+                "name": "GVWR Class",
+                "value": "Class D: 5,001-6,000 lb"
+              },
+              {
+                "name": "Tonnage",
+                "value": "1/2"
+              },
+              {
+                "name": "Check Digit",
+                "value": "3"
+              },
+              {
+                "name": "MPG",
+                "value": "A5:15-20-17"
+              },
+              {
+                "name": "AAIA",
+                "value": "147329/154062"
+              },
+              {
+                "name": "AAIA_ENGINE",
+                "value": "7798"
+              },
+              {
+                "name": "AAIA_LEGACY",
+                "value": "1445138"
+              },
+              {
+                "name": "AAIA_TRANSMISSION",
+                "value": "1185/2721"
+              },
+              {
+                "name": "AAIA_VehicleID",
+                "value": "147329/147329/147329/147329"
+              },
+              {
+                "name": "AAIA_EngineConfigID",
+                "value": "7798/7798/7798/7798"
+              },
+              {
+                "name": "AAIA_TransmissionID",
+                "value": "1185/2721/1185/2721"
+              },
+              {
+                "name": "AAIA_BodyStyleConfigID",
+                "value": "9/9/9/9"
+              },
+              {
+                "name": "AAIA_BrakeConfigID",
+                "value": "6/6/6/6"
+              },
+              {
+                "name": "AAIA_DriveTypeID",
+                "value": "7/7/6/6"
+              },
+              {
+                "name": "AAIA_SpringTypeConfigID",
+                "value": "1/1/1/1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

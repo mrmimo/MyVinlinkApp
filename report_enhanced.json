@@ -1,0 +1,604 @@
+Fetching report for VIN: 1J4PR5GK3AC144323...
+VIN Report: {
+    "REPORTS": {
+        "REPORT": {
+            "type": "ENHANCED",
+            "VINPOWER": {
+                "version": "PASSENGER, MPV, LIGHT TRUCK 2025 06.005; PASSENGER, MPV, LIGHT TRUCK 2025 06.005; OTHER PASSENGER VEHICLES 2025 06.005; TRUCKS FILE 2025 06.005; MOTORCYCLES FILE 2025 06.005; TRAILERS 2025 06.005; TRAILERS 2025 06.005;",
+                "DATABASE": {
+                    "version": "2025.06.005",
+                    "MODULE": [
+                        {
+                            "name": "PASSENGER, MPV, LIGHT TRUCK",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "PASSENGER, MPV, LIGHT TRUCK",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "OTHER PASSENGER VEHICLES",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRUCKS FILE",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "MOTORCYCLES FILE",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRAILERS",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRAILERS",
+                            "version": "2025.06.005"
+                        }
+                    ]
+                },
+                "VIN": {
+                    "number": "1J4PR5GK3AC144323",
+                    "DECODED": {
+                        "Make": "Jeep",
+                        "Model": "Grand Cherokee",
+                        "Model_Year": "2010",
+                        "ITEM": [
+                            {
+                                "name": "Model Year",
+                                "value": "2010"
+                            },
+                            {
+                                "name": "Make",
+                                "value": "Jeep"
+                            },
+                            {
+                                "name": "Model",
+                                "value": "Grand Cherokee"
+                            },
+                            {
+                                "name": "Trim Level",
+                                "value": "Limited"
+                            },
+                            {
+                                "name": "Body Type",
+                                "value": "4 Door Wagon"
+                            },
+                            {
+                                "name": "Manufacturer",
+                                "value": "Chrysler Group LLC"
+                            },
+                            {
+                                "name": "Production Seq. Number",
+                                "value": "144323"
+                            },
+                            {
+                                "name": "Engine Type",
+                                "value": "V6, 3.7L (225 CID)"
+                            },
+                            {
+                                "name": "Fuel Type",
+                                "value": "Gasoline"
+                            },
+                            {
+                                "name": "Engine Code",
+                                "value": "K"
+                            },
+                            {
+                                "name": "Drive Line Type",
+                                "value": "4WD"
+                            },
+                            {
+                                "name": "Vehicle Type",
+                                "value": "Multipurpose Vehicle (MPV)"
+                            },
+                            {
+                                "name": "Vehicle Class",
+                                "value": "Full-size MPV"
+                            },
+                            {
+                                "name": "Brake System",
+                                "value": "Hydraulic"
+                            },
+                            {
+                                "name": "Restraint System",
+                                "value": "Dual Air Bag; Seat Belts; Less Side Air Bags- Sales Code CGS; Less Side Curtain Air Bag- Sales Code CJ5"
+                            },
+                            {
+                                "name": "Country",
+                                "value": "UNITED STATES"
+                            },
+                            {
+                                "name": "Assy. Plant",
+                                "value": "Jefferson North Assembly"
+                            },
+                            {
+                                "name": "GVWR Class",
+                                "value": "Class D: 5,001-6,000 lb"
+                            },
+                            {
+                                "name": "Tonnage",
+                                "value": "1/2"
+                            },
+                            {
+                                "name": "Check Digit",
+                                "value": "3"
+                            },
+                            {
+                                "name": "MPG",
+                                "value": "A5:15-20-17"
+                            },
+                            {
+                                "name": "AAIA",
+                                "value": "147329/154062"
+                            },
+                            {
+                                "name": "AAIA_ENGINE",
+                                "value": "7798"
+                            },
+                            {
+                                "name": "AAIA_LEGACY",
+                                "value": "1445138"
+                            },
+                            {
+                                "name": "AAIA_TRANSMISSION",
+                                "value": "1185/2721"
+                            },
+                            {
+                                "name": "AAIA_VehicleID",
+                                "value": "147329/147329/147329/147329"
+                            },
+                            {
+                                "name": "AAIA_EngineConfigID",
+                                "value": "7798/7798/7798/7798"
+                            },
+                            {
+                                "name": "AAIA_TransmissionID",
+                                "value": "1185/2721/1185/2721"
+                            },
+                            {
+                                "name": "AAIA_BodyStyleConfigID",
+                                "value": "9/9/9/9"
+                            },
+                            {
+                                "name": "AAIA_BrakeConfigID",
+                                "value": "6/6/6/6"
+                            },
+                            {
+                                "name": "AAIA_DriveTypeID",
+                                "value": "7/7/6/6"
+                            },
+                            {
+                                "name": "AAIA_SpringTypeConfigID",
+                                "value": "1/1/1/1"
+                            }
+                        ]
+                    }
+                }
+            },
+            "VEHICLES": {
+                "VEHICLE": {
+                    "Make": "Jeep",
+                    "Model": "Grand Cherokee",
+                    "Model_Year": "2010",
+                    "Trim_Level": "Limited",
+                    "Vehicle_id": "209854",
+                    "SPECYFICATION": {
+                        "ITEM": [
+                            {
+                                "item_description": "Engine size and type",
+                                "item_name": "f201",
+                                "item_value": "V6, 3.7L (225 CID)"
+                            },
+                            {
+                                "item_description": "Construction",
+                                "item_name": "f203",
+                                "item_value": "V "
+                            },
+                            {
+                                "item_description": "No of cylinders",
+                                "item_name": "f204",
+                                "item_value": "6"
+                            },
+                            {
+                                "item_description": "Eng Displ - Liters",
+                                "item_name": "f205",
+                                "item_value": "3.7"
+                            },
+                            {
+                                "item_description": "Net power",
+                                "item_name": "f208",
+                                "item_value": "210 @ 5200"
+                            },
+                            {
+                                "item_description": "Net torque",
+                                "item_name": "f209",
+                                "item_value": "235 @ 4000"
+                            },
+                            {
+                                "item_description": "Fuel system",
+                                "item_name": "f214",
+                                "item_value": "sequential multipoint electronic fuel injection"
+                            },
+                            {
+                                "item_description": "Cam",
+                                "item_name": "f217",
+                                "item_value": "SOHC"
+                            },
+                            {
+                                "item_description": "No of valves per cyl",
+                                "item_name": "f218",
+                                "item_value": "3"
+                            },
+                            {
+                                "item_description": "Fuel requirement",
+                                "item_name": "f222",
+                                "item_value": "regular unleaded"
+                            },
+                            {
+                                "item_description": "Fuel Tank capacity gallons (liters)",
+                                "item_name": "f223",
+                                "item_value": "21.1"
+                            },
+                            {
+                                "item_description": "Transmission type",
+                                "item_name": "f224",
+                                "item_value": "5-speed automatic"
+                            },
+                            {
+                                "item_description": "Drive Configuration",
+                                "item_name": "f228",
+                                "item_value": "4WD"
+                            },
+                            {
+                                "item_description": "Front Brakes",
+                                "item_name": "f232",
+                                "item_value": "4-wheel disc"
+                            },
+                            {
+                                "item_description": "Frear Brakes",
+                                "item_name": "f233",
+                                "item_value": "4-wheel disc"
+                            },
+                            {
+                                "item_description": "ABS",
+                                "item_name": "f234",
+                                "item_value": "standard"
+                            },
+                            {
+                                "item_description": "Brake Assist",
+                                "item_name": "f235",
+                                "item_value": "standard"
+                            },
+                            {
+                                "item_description": "Front Wheels",
+                                "item_name": "f237",
+                                "item_value": "17 inch aluminum"
+                            },
+                            {
+                                "item_description": "Rear Wheels",
+                                "item_name": "f238",
+                                "item_value": "17 inch aluminum"
+                            },
+                            {
+                                "item_description": "Body Type",
+                                "item_name": "f243",
+                                "item_value": "Wagon"
+                            },
+                            {
+                                "item_description": "Doors",
+                                "item_name": "f244",
+                                "item_value": "4"
+                            },
+                            {
+                                "item_description": "Passengers (Front/Rear/Ext)",
+                                "item_name": "f245",
+                                "item_value": "5"
+                            },
+                            {
+                                "item_description": "Front Suspension",
+                                "item_name": "f247",
+                                "item_value": "short/long arm "
+                            },
+                            {
+                                "item_description": "Rear Suspension",
+                                "item_name": "f248",
+                                "item_value": "solid live axle "
+                            },
+                            {
+                                "item_description": "Steering",
+                                "item_name": "f249",
+                                "item_value": "power assisted, rack and pinion"
+                            },
+                            {
+                                "item_description": "Turning Circle",
+                                "item_name": "f253",
+                                "item_value": "36.7"
+                            },
+                            {
+                                "item_description": "Wheelbase",
+                                "item_name": "f255",
+                                "item_value": "109.5"
+                            },
+                            {
+                                "item_description": "Overal Length",
+                                "item_name": "f256",
+                                "item_value": "186.7"
+                            },
+                            {
+                                "item_description": "Overal Height",
+                                "item_name": "f257",
+                                "item_value": "68.7"
+                            },
+                            {
+                                "item_description": "Overall width",
+                                "item_name": "f258",
+                                "item_value": "72.6"
+                            },
+                            {
+                                "item_description": "Track front",
+                                "item_name": "f259",
+                                "item_value": "62.0"
+                            },
+                            {
+                                "item_description": "Track rear",
+                                "item_name": "f260",
+                                "item_value": "62.0"
+                            },
+                            {
+                                "item_description": "Clearance",
+                                "item_name": "f261",
+                                "item_value": "8.3"
+                            },
+                            {
+                                "item_description": "Front Headroom",
+                                "item_name": "f262",
+                                "item_value": "39.3"
+                            },
+                            {
+                                "item_description": "Front Legroom",
+                                "item_name": "f263",
+                                "item_value": "41.7"
+                            },
+                            {
+                                "item_description": "Front Shoulder room",
+                                "item_name": "f264",
+                                "item_value": "59.1"
+                            },
+                            {
+                                "item_description": "Front Hip Room",
+                                "item_name": "f265",
+                                "item_value": "57.1"
+                            },
+                            {
+                                "item_description": "Rear Headroom",
+                                "item_name": "f266",
+                                "item_value": "39.2"
+                            },
+                            {
+                                "item_description": "Rear Legroom",
+                                "item_name": "f267",
+                                "item_value": "35.5"
+                            },
+                            {
+                                "item_description": "Rear Shoulder room",
+                                "item_name": "f268",
+                                "item_value": "58.4"
+                            },
+                            {
+                                "item_description": "Rear Hip room",
+                                "item_name": "f269",
+                                "item_value": "55.7"
+                            },
+                            {
+                                "item_description": "Cargo Capacity",
+                                "item_name": "f271",
+                                "item_value": "68.5"
+                            },
+                            {
+                                "item_description": "Curb Weight - lbs",
+                                "item_name": "f272",
+                                "item_value": "4488"
+                            },
+                            {
+                                "item_description": "Gross Vehicle Weight Rating (GVWR) - lb",
+                                "item_name": "f274",
+                                "item_value": "5900"
+                            },
+                            {
+                                "item_description": "Towing Capacity - lb (kg)",
+                                "item_name": "f276",
+                                "item_value": "5900"
+                            },
+                            {
+                                "item_description": "Warranty whole vehicle Months",
+                                "item_name": "f301",
+                                "item_value": "36"
+                            },
+                            {
+                                "item_description": "Warranty whole vehicle Miles",
+                                "item_name": "f302",
+                                "item_value": "36 000"
+                            },
+                            {
+                                "item_description": "Warranty powertrain Months",
+                                "item_name": "f303",
+                                "item_value": "60"
+                            },
+                            {
+                                "item_description": "Warranty powertrain Miles",
+                                "item_name": "f304",
+                                "item_value": "100 000"
+                            },
+                            {
+                                "item_description": "Warranty anti-corrosion Months",
+                                "item_name": "f305",
+                                "item_value": "60"
+                            },
+                            {
+                                "item_description": "Warranty anti-corrosion Miles",
+                                "item_name": "f306",
+                                "item_value": "100 000"
+                            },
+                            {
+                                "item_description": "Warranty roadside assistance Months",
+                                "item_name": "f307",
+                                "item_value": "36"
+                            },
+                            {
+                                "item_description": "Warranty roadside assistance Miles",
+                                "item_name": "f308",
+                                "item_value": "36 000"
+                            }
+                        ]
+                    },
+                    "EQUIPMENT": {
+                        "PACKAGE": [
+                            {
+                                "package_name": "",
+                                "status": "S",
+                                "ITEM": [
+                                    {
+                                        "position": "0",
+                                        "status": "S",
+                                        "value": "SmartBeamTM Intelligent Headlamp System"
+                                    },
+                                    {
+                                        "position": "1",
+                                        "status": "S",
+                                        "value": "Rain-Sensing Automatic Wiper System"
+                                    },
+                                    {
+                                        "position": "2",
+                                        "status": "S",
+                                        "value": "Auto-Dimming Interior and Exterior Rearview Mirrors"
+                                    },
+                                    {
+                                        "position": "3",
+                                        "status": "S",
+                                        "value": "ParkSense Rear Park Assist System"
+                                    },
+                                    {
+                                        "position": "4",
+                                        "status": "S",
+                                        "value": "ParkView Rear Back-Up Camera"
+                                    },
+                                    {
+                                        "position": "5",
+                                        "status": "S",
+                                        "value": "Boston Acoustics Premium Audio System"
+                                    },
+                                    {
+                                        "position": "6",
+                                        "status": "S",
+                                        "value": "Media Center 730N Touch-Screen Navigation Radio"
+                                    },
+                                    {
+                                        "position": "7",
+                                        "status": "S",
+                                        "value": "8-way Driver and 4-way Front-Passenger Power Seat Adjustment"
+                                    },
+                                    {
+                                        "position": "8",
+                                        "status": "S",
+                                        "value": "Jeep Memory System"
+                                    },
+                                    {
+                                        "position": "9",
+                                        "status": "S",
+                                        "value": "Chrome Grille, Door Handles, Roof Rails and License Plate Brow"
+                                    },
+                                    {
+                                        "position": "10",
+                                        "status": "S",
+                                        "value": "Leather-Wrapped Steering Wheel with Audio and Speed Controls"
+                                    },
+                                    {
+                                        "position": "11",
+                                        "status": "S",
+                                        "value": "Woodgrain Interior Accents"
+                                    },
+                                    {
+                                        "position": "12",
+                                        "status": "S",
+                                        "value": "Remote Start System"
+                                    },
+                                    {
+                                        "position": "13",
+                                        "status": "S",
+                                        "value": "Leather-Trimmed, Heated Front and Rear Seats"
+                                    },
+                                    {
+                                        "position": "14",
+                                        "status": "S",
+                                        "value": "UconnectTM Phone"
+                                    },
+                                    {
+                                        "position": "15",
+                                        "status": "S",
+                                        "value": "Infrared Dual-Zone Automatic Temperature Control"
+                                    },
+                                    {
+                                        "position": "16",
+                                        "status": "S",
+                                        "value": "Tire Pressure Monitoring Display System"
+                                    },
+                                    {
+                                        "position": "17",
+                                        "status": "S",
+                                        "value": "Power Sunroof"
+                                    },
+                                    {
+                                        "position": "18",
+                                        "status": "S",
+                                        "value": "Power Adjustable Pedals with Memory"
+                                    },
+                                    {
+                                        "position": "19",
+                                        "status": "S",
+                                        "value": "115-Volt Auxiliary Power Outlet"
+                                    },
+                                    {
+                                        "position": "20",
+                                        "status": "S",
+                                        "value": "Fog Lamps"
+                                    },
+                                    {
+                                        "position": "21",
+                                        "status": "S",
+                                        "value": "SIRIUS TrafficTM with One-Year Subscription Included"
+                                    }
+                                ]
+                            },
+                            {
+                                "package_name": " Chrome Edition Group",
+                                "status": "O",
+                                "ITEM": {
+                                    "position": "23",
+                                    "value": "Includes chrome fuel filler door, bright door entry guards, chrome taillamp guards, chrome tubular side steps (not available with Touring Plus Group or S-Limited Group) (Authentic Jeep Accessories by Mopar)"
+                                }
+                            },
+                            {
+                                "package_name": " Skid Plate Group",
+                                "status": "O",
+                                "ITEM": {
+                                    "position": "25",
+                                    "value": "Includes fuel tank, transfer case and front suspension skid plates and tow hooks (2 front/1 rear) (included with Quadra-Drive II 4WD Group and S-Limited Group) (4WD models only)"
+                                }
+                            },
+                            {
+                                "package_name": " S-Limited Group",
+                                "status": "O",
+                                "ITEM": {
+                                    "position": "27",
+                                    "value": "Includes Quadra-Drive II 4WD Group, leather-trimmed seats with suede inserts, Skid Plate Group, Trailer Tow Group IV, door sill scuff pads, bright interior accents, body-color sill extensions, S Edition badge, HID headlamps, body-color fascias with bright insert, Uconnect Phone, full-size matching spare wheel, P245/60R18 BSW all-terrain tires, 18-inch Arrowhead cast aluminum with machined face wheels (requires Dark Slate Gray/Light Graystone interior) (4WD models only) (requires 5.7L V8 engine)"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
