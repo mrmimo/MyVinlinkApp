@@ -1,0 +1,2218 @@
+{
+    "REPORTS": {
+        "REPORT": {
+            "type": "ENHANCED",
+            "VINPOWER": {
+                "version": "PASSENGER, MPV, LIGHT TRUCK 2025 06.005; PASSENGER, MPV, LIGHT TRUCK 2025 06.005; OTHER PASSENGER VEHICLES 2025 06.005; TRUCKS FILE 2025 06.005; MOTORCYCLES FILE 2025 06.005; TRAILERS 2025 06.005; TRAILERS 2025 06.005;",
+                "DATABASE": {
+                    "version": "2025.06.005",
+                    "MODULE": [
+                        {
+                            "name": "PASSENGER, MPV, LIGHT TRUCK",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "PASSENGER, MPV, LIGHT TRUCK",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "OTHER PASSENGER VEHICLES",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRUCKS FILE",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "MOTORCYCLES FILE",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRAILERS",
+                            "version": "2025.06.005"
+                        },
+                        {
+                            "name": "TRAILERS",
+                            "version": "2025.06.005"
+                        }
+                    ]
+                },
+                "VIN": {
+                    "number": "1FA6P8TH7F5352435",
+                    "DECODED": {
+                        "Model_Year": "2015",
+                        "Make": "Ford",
+                        "Model": "Mustang",
+                        "ITEM": [
+                            {
+                                "name": "Model Year",
+                                "value": "2015"
+                            },
+                            {
+                                "name": "Make",
+                                "value": "Ford"
+                            },
+                            {
+                                "name": "Model",
+                                "value": "Mustang"
+                            },
+                            {
+                                "name": "Trim Level",
+                                "value": "EcoBoost; EcoBoost Premium"
+                            },
+                            {
+                                "name": "Body Type",
+                                "value": "2 Door Coupe"
+                            },
+                            {
+                                "name": "Manufacturer",
+                                "value": "Ford Motor Company"
+                            },
+                            {
+                                "name": "Production Seq. Number",
+                                "value": "352435"
+                            },
+                            {
+                                "name": "Engine Type",
+                                "value": "L4, 2.3L; DOHC 16V; Turbo"
+                            },
+                            {
+                                "name": "Fuel Type",
+                                "value": "Gasoline"
+                            },
+                            {
+                                "name": "Engine Code",
+                                "value": "H"
+                            },
+                            {
+                                "name": "Drive Line Type",
+                                "value": "RWD"
+                            },
+                            {
+                                "name": "Vehicle Type",
+                                "value": "Passenger Car"
+                            },
+                            {
+                                "name": "Vehicle Class",
+                                "value": "Small Car"
+                            },
+                            {
+                                "name": "Restraint System",
+                                "value": "Dual Air Bag; Manual Belts; Side Air Bag-1st Row, 2nd Row; Driver and Pass Knee"
+                            },
+                            {
+                                "name": "Country",
+                                "value": "UNITED STATES"
+                            },
+                            {
+                                "name": "Assy. Plant",
+                                "value": "AAI: Flat Rock, MI"
+                            },
+                            {
+                                "name": "Check Digit",
+                                "value": "7"
+                            },
+                            {
+                                "name": "MPG",
+                                "value": "S6:22-32-25/M5:22-31-26"
+                            },
+                            {
+                                "name": "AAIA",
+                                "value": "214280/214290"
+                            },
+                            {
+                                "name": "AAIA_ENGINE",
+                                "value": "19665"
+                            },
+                            {
+                                "name": "AAIA_LEGACY",
+                                "value": ""
+                            },
+                            {
+                                "name": "AAIA_TRANSMISSION",
+                                "value": "3113/2937"
+                            },
+                            {
+                                "name": "AAIA_VehicleID",
+                                "value": "214280/214280"
+                            },
+                            {
+                                "name": "AAIA_EngineConfigID",
+                                "value": "19665/19665"
+                            },
+                            {
+                                "name": "AAIA_TransmissionID",
+                                "value": "3113/2937"
+                            },
+                            {
+                                "name": "AAIA_BodyStyleConfigID",
+                                "value": "7/7"
+                            },
+                            {
+                                "name": "AAIA_BrakeConfigID",
+                                "value": "6/6"
+                            },
+                            {
+                                "name": "AAIA_DriveTypeID",
+                                "value": "7/7"
+                            },
+                            {
+                                "name": "AAIA_SpringTypeConfigID",
+                                "value": "1/1"
+                            }
+                        ]
+                    }
+                }
+            },
+            "VEHICLES": {
+                "VEHICLE": [
+                    {
+                        "Vehicle_id": "424682",
+                        "Model_Year": "2015",
+                        "Make": "Ford",
+                        "Model": "Mustang",
+                        "Trim_Level": "EcoBoost",
+                        "SPECYFICATION": {
+                            "ITEM": [
+                                {
+                                    "item_name": "f201",
+                                    "item_description": "Engine size and type",
+                                    "item_value": "L4, 2.3L; DOHC 16V; Turbo"
+                                },
+                                {
+                                    "item_name": "f203",
+                                    "item_description": "Construction",
+                                    "item_value": "L"
+                                },
+                                {
+                                    "item_name": "f204",
+                                    "item_description": "No of cylinders",
+                                    "item_value": "4"
+                                },
+                                {
+                                    "item_name": "f206",
+                                    "item_description": "Eng Displ - cc",
+                                    "item_value": "2300"
+                                },
+                                {
+                                    "item_name": "f207",
+                                    "item_description": "Engine Location",
+                                    "item_value": "Front"
+                                },
+                                {
+                                    "item_name": "f208",
+                                    "item_description": "Net power",
+                                    "item_value": "310 @ 5500"
+                                },
+                                {
+                                    "item_name": "f209",
+                                    "item_description": "Net torque",
+                                    "item_value": "320 @ 2500"
+                                },
+                                {
+                                    "item_name": "f210",
+                                    "item_description": "Compression ratio",
+                                    "item_value": "9.5"
+                                },
+                                {
+                                    "item_name": "f211",
+                                    "item_description": "Bore",
+                                    "item_value": "3.45"
+                                },
+                                {
+                                    "item_name": "f212",
+                                    "item_description": "Stroke",
+                                    "item_value": "3.7"
+                                },
+                                {
+                                    "item_name": "f213",
+                                    "item_description": "Intake System",
+                                    "item_value": "Composite shell-welded with runner pack"
+                                },
+                                {
+                                    "item_name": "f214",
+                                    "item_description": "Fuel system",
+                                    "item_value": "Direct injection"
+                                },
+                                {
+                                    "item_name": "f215",
+                                    "item_description": "Ignition System",
+                                    "item_value": "Distributor-less with coil-on-plug"
+                                },
+                                {
+                                    "item_name": "f217",
+                                    "item_description": "Cam",
+                                    "item_value": "Twin independent variable"
+                                },
+                                {
+                                    "item_name": "f218",
+                                    "item_description": "No of valves per cyl",
+                                    "item_value": "4"
+                                },
+                                {
+                                    "item_name": "f220",
+                                    "item_description": "Oil Capacity - quarts (liters)",
+                                    "item_value": "6"
+                                },
+                                {
+                                    "item_name": "f222",
+                                    "item_description": "Fuel requirement",
+                                    "item_value": "Regular unleaded (87 octane)"
+                                },
+                                {
+                                    "item_name": "f223",
+                                    "item_description": "Fuel Tank capacity gallons (liters)",
+                                    "item_value": "15.5"
+                                },
+                                {
+                                    "item_name": "f224",
+                                    "item_description": "Transmission type",
+                                    "item_value": "6-speed manual"
+                                },
+                                {
+                                    "item_name": "f226",
+                                    "item_description": "Optionl Transmission",
+                                    "item_value": "4.236, 2.538, 1.665, 1.2387, 1.00, 0.704"
+                                },
+                                {
+                                    "item_name": "f228",
+                                    "item_description": "Drive Configuration",
+                                    "item_value": "RWD"
+                                },
+                                {
+                                    "item_name": "f232",
+                                    "item_description": "Front Brakes",
+                                    "item_value": "4-wheel, vented discs, 2-piston floating aluminum calipers"
+                                },
+                                {
+                                    "item_name": "f233",
+                                    "item_description": "Frear Brakes",
+                                    "item_value": "4-wheel, solid discs, single-piston floating aluminum calipers"
+                                },
+                                {
+                                    "item_name": "f234",
+                                    "item_description": "ABS",
+                                    "item_value": "Standard"
+                                },
+                                {
+                                    "item_name": "f237",
+                                    "item_description": "Front Wheels",
+                                    "item_value": "17 x 7.5 aluminum"
+                                },
+                                {
+                                    "item_name": "f238",
+                                    "item_description": "Rear Wheels",
+                                    "item_value": "17 x 7.5 aluminum"
+                                },
+                                {
+                                    "item_name": "f239",
+                                    "item_description": "Front Tires",
+                                    "item_value": "235/55R H A/S "
+                                },
+                                {
+                                    "item_name": "f240",
+                                    "item_description": "Rear Tires",
+                                    "item_value": "235/55R H A/S "
+                                },
+                                {
+                                    "item_name": "f243",
+                                    "item_description": "Body Type",
+                                    "item_value": "Coupe"
+                                },
+                                {
+                                    "item_name": "f244",
+                                    "item_description": "Doors",
+                                    "item_value": "2"
+                                },
+                                {
+                                    "item_name": "f247",
+                                    "item_description": "Front Suspension",
+                                    "item_value": "Double-ball-joint independent MacPherson strut and tubular stabilizer bar"
+                                },
+                                {
+                                    "item_name": "f248",
+                                    "item_description": "Rear Suspension",
+                                    "item_value": "Integral-link independent with coil springs, solid stabilizer bars"
+                                },
+                                {
+                                    "item_name": "f249",
+                                    "item_description": "Steering",
+                                    "item_value": "Electric power-assisted steering with rack-and-pinion gear"
+                                },
+                                {
+                                    "item_name": "f255",
+                                    "item_description": "Wheelbase",
+                                    "item_value": "107.1"
+                                },
+                                {
+                                    "item_name": "f256",
+                                    "item_description": "Overal Length",
+                                    "item_value": "188.3"
+                                },
+                                {
+                                    "item_name": "f257",
+                                    "item_description": "Overal Height",
+                                    "item_value": "54.4"
+                                },
+                                {
+                                    "item_name": "f258",
+                                    "item_description": "Overall width",
+                                    "item_value": "75.4"
+                                },
+                                {
+                                    "item_name": "f259",
+                                    "item_description": "Track front",
+                                    "item_value": "62.3"
+                                },
+                                {
+                                    "item_name": "f260",
+                                    "item_description": "Track rear",
+                                    "item_value": "64.9"
+                                },
+                                {
+                                    "item_name": "f262",
+                                    "item_description": "Front Headroom",
+                                    "item_value": "37.6"
+                                },
+                                {
+                                    "item_name": "f263",
+                                    "item_description": "Front Legroom",
+                                    "item_value": "44.5"
+                                },
+                                {
+                                    "item_name": "f264",
+                                    "item_description": "Front Shoulder room",
+                                    "item_value": "56.3"
+                                },
+                                {
+                                    "item_name": "f265",
+                                    "item_description": "Front Hip Room",
+                                    "item_value": "54.9"
+                                },
+                                {
+                                    "item_name": "f266",
+                                    "item_description": "Rear Headroom",
+                                    "item_value": "34.8"
+                                },
+                                {
+                                    "item_name": "f267",
+                                    "item_description": "Rear Legroom",
+                                    "item_value": "30.6"
+                                },
+                                {
+                                    "item_name": "f268",
+                                    "item_description": "Rear Shoulder room",
+                                    "item_value": "52.2"
+                                },
+                                {
+                                    "item_name": "f269",
+                                    "item_description": "Rear Hip room",
+                                    "item_value": "47.4"
+                                },
+                                {
+                                    "item_name": "f271",
+                                    "item_description": "Cargo Capacity",
+                                    "item_value": "13.5"
+                                },
+                                {
+                                    "item_name": "f272",
+                                    "item_description": "Curb Weight - lbs",
+                                    "item_value": "3532"
+                                },
+                                {
+                                    "item_name": "f280",
+                                    "item_description": "Fuel economy (city/highway/combined) - mpg",
+                                    "item_value": "21/32/25"
+                                }
+                            ]
+                        },
+                        "EQUIPMENT": {
+                            "PACKAGE": [
+                                {
+                                    "package_name": "",
+                                    "status": "S",
+                                    "ITEM": [
+                                        {
+                                            "position": "0",
+                                            "value": "4-way adjustable front head restraints",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "1",
+                                            "value": "50/50 split-fold rear seat",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "2",
+                                            "value": "Front bucket seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "3",
+                                            "value": "12-volt powerpoints (2)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "4",
+                                            "value": "Auto-dimming rearview mirror",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "5",
+                                            "value": "Carpeted front floor mats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "6",
+                                            "value": "Cruise control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "7",
+                                            "value": "Full center floor console with storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "8",
+                                            "value": "Illuminated locking flove compartment",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "9",
+                                            "value": "Intelligent Access with push-button start",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "10",
+                                            "value": "Leather-wrapped steering wheel and parking brake handles",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "11",
+                                            "value": "Power door locks",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "12",
+                                            "value": "Power windows with global open and one-touch-up/-down feature",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "13",
+                                            "value": "Power windows on-touch-up feature",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "14",
+                                            "value": "Rear view camera",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "15",
+                                            "value": "Steering wheel-mounted cruise, audio and 5-way controls",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "16",
+                                            "value": "Sun visors with illuminated vanity mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "17",
+                                            "value": "Sunglasses storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "18",
+                                            "value": "Tilt/telescoping steering column",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "19",
+                                            "value": "Automatic headlamps with wiper activation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "20",
+                                            "value": "Easy Fuel capless fuel filler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "21",
+                                            "value": "Embedded radio antenna",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "22",
+                                            "value": "HID headlamps with signature lighting",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "23",
+                                            "value": "LED taillamps with sequential turn signals",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "24",
+                                            "value": "Rear-window defroster",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "25",
+                                            "value": "Sideview mirrors with integrated blind spot mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "26",
+                                            "value": "Windshield wipers - Variable-intermittent",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "27",
+                                            "value": "Personal Safety System with dual-stage front airbags",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "28",
+                                            "value": "Active Knee-Airbag Glovebox",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "29",
+                                            "value": "AdvanceTrac electronic stability control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "30",
+                                            "value": "Belt-Minder front safety belt reminder",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "31",
+                                            "value": "Driver's knee airbag",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "32",
+                                            "value": "Front-seat side airbags",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "33",
+                                            "value": "Illuminated Entry System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "34",
+                                            "value": "Individual Tire Pressure Monitoring System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "35",
+                                            "value": "LATCH - Lower Anchors and Tehter Anchors for Children",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "36",
+                                            "value": "MyKey",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "37",
+                                            "value": "Perimeter alarm",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "38",
+                                            "value": "Safety belt restraint system - Manual 3-point shoulder and lap safety belt system for all seating positions",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "39",
+                                            "value": "SecuriLock Passive Anti-Theft System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "40",
+                                            "value": "Side-curtain airbags",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "41",
+                                            "value": "SOS Post-Crash Alert System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "42",
+                                            "value": "Diamond-mesh aluminum dash panel",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "43",
+                                            "value": "Blade-style decklid spoiler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "44",
+                                            "value": "LED fog lamps",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "45",
+                                            "value": "Active noise cancellation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "46",
+                                            "value": "All-weather floor mats",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "47",
+                                            "value": "RECARO Ebony sport cloth seats with manual adjustment",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "48",
+                                            "value": "Reverse Sensing System",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "49",
+                                            "value": "Spoiler delete",
+                                            "status": "O"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " EcoBoost Performance Package",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "51",
+                                            "value": "Unique front air splitter"
+                                        },
+                                        {
+                                            "position": "52",
+                                            "value": "Large radiator"
+                                        },
+                                        {
+                                            "position": "53",
+                                            "value": "Upsized rear sway bar"
+                                        },
+                                        {
+                                            "position": "54",
+                                            "value": "Heavy-duty front springs"
+                                        },
+                                        {
+                                            "position": "55",
+                                            "value": "Unique chassis tuning"
+                                        },
+                                        {
+                                            "position": "56",
+                                            "value": "Larger brake rotors with 4-piston calipers"
+                                        },
+                                        {
+                                            "position": "57",
+                                            "value": "19\" Ebony Black-painted aluminum wheels with 255/40R19 summer-only tires"
+                                        },
+                                        {
+                                            "position": "58",
+                                            "value": "Unique electric power-assisted steering, ABS and electronic stability control tuning"
+                                        },
+                                        {
+                                            "position": "59",
+                                            "value": "Engine Turn aluminum dash panel"
+                                        },
+                                        {
+                                            "position": "60",
+                                            "value": "Gauge Pack (oil pressure and boost)"
+                                        },
+                                        {
+                                            "position": "61",
+                                            "value": "Spoiler delete"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " Enhanced Security Package",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "63",
+                                            "value": "Electronic-locking center console"
+                                        },
+                                        {
+                                            "position": "64",
+                                            "value": "Active Anti-Theft System"
+                                        },
+                                        {
+                                            "position": "65",
+                                            "value": "Electronic steering column lock and wheel locks"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "Vehicle_id": "436230",
+                        "Model_Year": "2015",
+                        "Make": "Ford",
+                        "Model": "Mustang",
+                        "Trim_Level": "Ecoboost Premium",
+                        "SPECYFICATION": {
+                            "ITEM": [
+                                {
+                                    "item_name": "f201",
+                                    "item_description": "Engine size and type",
+                                    "item_value": "L4, 2.3L; DOHC 16V; Turbo"
+                                },
+                                {
+                                    "item_name": "f203",
+                                    "item_description": "Construction",
+                                    "item_value": "L "
+                                },
+                                {
+                                    "item_name": "f204",
+                                    "item_description": "No of cylinders",
+                                    "item_value": "4"
+                                },
+                                {
+                                    "item_name": "f205",
+                                    "item_description": "Eng Displ - Liters",
+                                    "item_value": "2.3"
+                                },
+                                {
+                                    "item_name": "f208",
+                                    "item_description": "Net power",
+                                    "item_value": "310 @ 5500"
+                                },
+                                {
+                                    "item_name": "f209",
+                                    "item_description": "Net torque",
+                                    "item_value": "320 @ 3000"
+                                },
+                                {
+                                    "item_name": "f217",
+                                    "item_description": "Cam",
+                                    "item_value": "DOHC"
+                                },
+                                {
+                                    "item_name": "f223",
+                                    "item_description": "Fuel Tank capacity gallons (liters)",
+                                    "item_value": "15.5"
+                                },
+                                {
+                                    "item_name": "f224",
+                                    "item_description": "Transmission type",
+                                    "item_value": "6-speed manual"
+                                },
+                                {
+                                    "item_name": "f228",
+                                    "item_description": "Drive Configuration",
+                                    "item_value": "RWD"
+                                },
+                                {
+                                    "item_name": "f232",
+                                    "item_description": "Front Brakes",
+                                    "item_value": "4-wheel disc"
+                                },
+                                {
+                                    "item_name": "f233",
+                                    "item_description": "Frear Brakes",
+                                    "item_value": "4-wheel disc"
+                                },
+                                {
+                                    "item_name": "f234",
+                                    "item_description": "ABS",
+                                    "item_value": "standard"
+                                },
+                                {
+                                    "item_name": "f235",
+                                    "item_description": "Brake Assist",
+                                    "item_value": "standard"
+                                },
+                                {
+                                    "item_name": "f237",
+                                    "item_description": "Front Wheels",
+                                    "item_value": "18 inch aluminum"
+                                },
+                                {
+                                    "item_name": "f238",
+                                    "item_description": "Rear Wheels",
+                                    "item_value": "18 inch aluminum"
+                                },
+                                {
+                                    "item_name": "f239",
+                                    "item_description": "Front Tires",
+                                    "item_value": "235/50R18"
+                                },
+                                {
+                                    "item_name": "f240",
+                                    "item_description": "Rear Tires",
+                                    "item_value": "235/50R18"
+                                },
+                                {
+                                    "item_name": "f243",
+                                    "item_description": "Body Type",
+                                    "item_value": "Coupe"
+                                },
+                                {
+                                    "item_name": "f244",
+                                    "item_description": "Doors",
+                                    "item_value": "2"
+                                },
+                                {
+                                    "item_name": "f247",
+                                    "item_description": "Front Suspension",
+                                    "item_value": "MacPherson strut"
+                                },
+                                {
+                                    "item_name": "f248",
+                                    "item_description": "Rear Suspension",
+                                    "item_value": "integral link"
+                                },
+                                {
+                                    "item_name": "f255",
+                                    "item_description": "Wheelbase",
+                                    "item_value": "107.1"
+                                },
+                                {
+                                    "item_name": "f256",
+                                    "item_description": "Overal Length",
+                                    "item_value": "188.3"
+                                },
+                                {
+                                    "item_name": "f257",
+                                    "item_description": "Overal Height",
+                                    "item_value": "54.4"
+                                },
+                                {
+                                    "item_name": "f258",
+                                    "item_description": "Overall width",
+                                    "item_value": "81.9"
+                                },
+                                {
+                                    "item_name": "f262",
+                                    "item_description": "Front Headroom",
+                                    "item_value": "37.6"
+                                },
+                                {
+                                    "item_name": "f263",
+                                    "item_description": "Front Legroom",
+                                    "item_value": "44.5"
+                                },
+                                {
+                                    "item_name": "f264",
+                                    "item_description": "Front Shoulder room",
+                                    "item_value": "56.3"
+                                },
+                                {
+                                    "item_name": "f265",
+                                    "item_description": "Front Hip Room",
+                                    "item_value": "54.9"
+                                },
+                                {
+                                    "item_name": "f266",
+                                    "item_description": "Rear Headroom",
+                                    "item_value": "34.8"
+                                },
+                                {
+                                    "item_name": "f267",
+                                    "item_description": "Rear Legroom",
+                                    "item_value": "30.6"
+                                },
+                                {
+                                    "item_name": "f268",
+                                    "item_description": "Rear Shoulder room",
+                                    "item_value": "52.2"
+                                },
+                                {
+                                    "item_name": "f269",
+                                    "item_description": "Rear Hip room",
+                                    "item_value": "47.4"
+                                },
+                                {
+                                    "item_name": "f270",
+                                    "item_description": "Cabin Capacity",
+                                    "item_value": "84.5"
+                                },
+                                {
+                                    "item_name": "f271",
+                                    "item_description": "Cargo Capacity",
+                                    "item_value": "13.5"
+                                },
+                                {
+                                    "item_name": "f280",
+                                    "item_description": "Fuel economy (city/highway/combined) - mpg",
+                                    "item_value": "22/31/26"
+                                },
+                                {
+                                    "item_name": "f301",
+                                    "item_description": "Warranty whole vehicle Months",
+                                    "item_value": "36"
+                                },
+                                {
+                                    "item_name": "f302",
+                                    "item_description": "Warranty whole vehicle Miles",
+                                    "item_value": "36 000"
+                                },
+                                {
+                                    "item_name": "f303",
+                                    "item_description": "Warranty powertrain Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f304",
+                                    "item_description": "Warranty powertrain Miles",
+                                    "item_value": "60 000"
+                                },
+                                {
+                                    "item_name": "f305",
+                                    "item_description": "Warranty anti-corrosion Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f306",
+                                    "item_description": "Warranty anti-corrosion Miles",
+                                    "item_value": "unlimited"
+                                },
+                                {
+                                    "item_name": "f307",
+                                    "item_description": "Warranty roadside assistance Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f308",
+                                    "item_description": "Warranty roadside assistance Miles",
+                                    "item_value": "60 000"
+                                }
+                            ]
+                        },
+                        "EQUIPMENT": {
+                            "PACKAGE": [
+                                {
+                                    "package_name": "",
+                                    "status": "S",
+                                    "ITEM": [
+                                        {
+                                            "position": "0",
+                                            "value": "4-wheel vented disc Anti-Lock Brake System (ABS)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "1",
+                                            "value": "Selectable-effort electric power-assisted steering (Standard, Sport, Comfort)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "2",
+                                            "value": "Suspension  Front",
+                                            "status": " independent double-ball-joint MacPherson strut with stabilizer bar Suspension  Rear"
+                                        },
+                                        {
+                                            "position": "3",
+                                            "value": "Tire mobility kit",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "4",
+                                            "value": "4-way adjustable front head restraints",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "5",
+                                            "value": "50/50 split-fold rear seat (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "6",
+                                            "value": "Front bucket seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "7",
+                                            "value": "12-volt powerpoints (2)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "8",
+                                            "value": "Auto-dimming rearview mirror",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "9",
+                                            "value": "Carpeted front floor mats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "10",
+                                            "value": "Cruise control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "11",
+                                            "value": "Full center floor console with storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "12",
+                                            "value": "Illuminated locking glove compartment",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "13",
+                                            "value": "Intelligent Access with push-button start",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "14",
+                                            "value": "Leather-wrapped steering wheel and parking brake handle",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "15",
+                                            "value": "Power door locks",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "16",
+                                            "value": "Power windows with global open and one-touchup/-down feature (one-touch-up fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "17",
+                                            "value": "Rear view camera",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "18",
+                                            "value": "Steering wheel-mounted cruise, audio and 5-way controls",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "19",
+                                            "value": "Sun visors with illuminated vanity mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "20",
+                                            "value": "Sunglasses storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "21",
+                                            "value": "Tilt/telescoping steering column",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "22",
+                                            "value": "Automatic headlamps with wiper activation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "23",
+                                            "value": "Easy Fuel capless fuel filler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "24",
+                                            "value": "Embedded radio antenna (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "25",
+                                            "value": "HID headlamps with signature lighting",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "26",
+                                            "value": "LED taillamps with sequential turn signals",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "27",
+                                            "value": "Rear-window defroster",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "28",
+                                            "value": "Sideview mirrors with integrated blind spot mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "29",
+                                            "value": "Windshield wipers  Variable-intermittent",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "30",
+                                            "value": "Personal Safety System with dual-stage front airbags",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "31",
+                                            "value": "Active Knee-Airbag Glovebox",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "32",
+                                            "value": "AdvanceTrac electronic stability control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "33",
+                                            "value": "Belt-Minder front safety belt reminder",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "34",
+                                            "value": "Drivers knee airbag",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "35",
+                                            "value": "Front-seat side airbags3 Illuminated",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "36",
+                                            "value": "Entry System Individual",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "37",
+                                            "value": "Tire Pressure Monitoring System (excludes available spare)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "38",
+                                            "value": "LATCH  Lower Anchors and Tether Anchors for Children",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "39",
+                                            "value": "MyKey",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "40",
+                                            "value": "Perimeter alarm",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "41",
+                                            "value": "Safety belt restraint system  Manual 3-point shoulder and lap safety belt system for all seating positions",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "42",
+                                            "value": "SecuriLock Passive Anti-Theft System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "43",
+                                            "value": "Side-curtain airbags3 (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "44",
+                                            "value": "SOS Post-Crash Alert System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "45",
+                                            "value": "4-way manually adjustable drivers seat with height adjustment",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "46",
+                                            "value": "2-way manually adjustable front-passenger seat",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "47",
+                                            "value": "Cloth seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "48",
+                                            "value": "AM/FM stereo/single-CD player with 6 speakers",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "49",
+                                            "value": "Ford SYNC enhanced voice recognition communications and entertainment system with 4.2\" color LCD display in center stack, AppLink, 911 Assist, and 2 smart-charging USB ports",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "50",
+                                            "value": "Auxiliary audio input jack",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "51",
+                                            "value": "Single-zone manual air conditioning Track Apps located in instrument cluster",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "52",
+                                            "value": "17\" Sparkle Silver-painted aluminum wheels with P235/55R17 all-season tires",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "53",
+                                            "value": "Black cloth top on convertible",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "54",
+                                            "value": "Body-color power sideview mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "55",
+                                            "value": "Dual bright slashed-cut exhaust tips",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "56",
+                                            "value": "Active noise cancellation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "57",
+                                            "value": "6-way power drivers seat with power lumbar",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "58",
+                                            "value": "6-way power front-passenger seat Interior",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "59",
+                                            "value": "Diamond-mesh aluminum dash panel",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "60",
+                                            "value": "Blade-style decklid spoiler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "61",
+                                            "value": "LED fog lamps",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "62",
+                                            "value": "Selectable Drive Modes with 4-gang toggle switch pack (Normal, Sport+, Track, Snow/Wet)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "63",
+                                            "value": "Heated and cooled front seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "64",
+                                            "value": "Leather-trimmed seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "65",
+                                            "value": "Aluminum brake and accelerator pedals",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "66",
+                                            "value": "Ambient lighting AM/FM stereo/single-CD player with 9 speakers and amplifier",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "67",
+                                            "value": "Bright-finish door speaker surrounds",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "68",
+                                            "value": "Dual-zone electronic automatic temperature control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "69",
+                                            "value": "Illuminated door-sill plates",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "70",
+                                            "value": "Premium door-trim panel inserts",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "71",
+                                            "value": "Satin Brush aluminum dash panel",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "72",
+                                            "value": "SiriusXM Satellite Radio with 6-month trial subscription",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "73",
+                                            "value": "SYNC with MyFord Touch voice-activated, in-vehicle connectivity system with 8\" color LCD touch screen in center stack and media hub with USB port Universal garage door opener",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "74",
+                                            "value": "18\" Magnetic-painted machined aluminum wheels with P235/50R18 all-season tires",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "75",
+                                            "value": "Body-color power, heated sideview mirrors with integrated turn signal indicators",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "76",
+                                            "value": "Pony projection lamps",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "77",
+                                            "value": "Rear diffuser",
+                                            "status": "S"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " Equipment Group 201A",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "79",
+                                            "value": "Shaker Pro Audio System with 12 speakers and amplifier, HD Radio Technology, drivers seat and sideview mirror memory feature, and BLIS (Blind Spot Information System) with cross-traffic alert"
+                                        },
+                                        {
+                                            "position": "80",
+                                            "value": "6-speed SelectShift automatic transmission with steering wheel-mounted paddle shifters and Remote Start System",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "81",
+                                            "value": "18\" Foundry Black-painted aluminum wheels with 235/50R18 all-season tires (n/a with 50 Years Appearance Package or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "82",
+                                            "value": "20\" x 9\" Foundry Black-painted machined aluminum wheels with 265/35R20 summer-only tires2 (n/a with 50 Years Appearance Package or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " 50 Years Appearance Package3",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "84",
+                                            "value": "includes 50 Years grille with bright surround, 19\" premium Luster Nickel-painted aluminum wheels with 255/40R19 all-season tires, unique rear gas cap badge, Axle Spin aluminum dash panel, and unique seat and door-trim panel inserts (n/a with optional wheels, Premier Trim With Color Accent Group, RECARO seats, or spoiler delete)"
+                                        },
+                                        {
+                                            "position": "85",
+                                            "value": "Adaptive cruise control and collision warning with brake support, and rain-sensing windshield wipers",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "86",
+                                            "value": "All-weather floor mats",
+                                            "status": "O"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " EcoBoost Performance Package3",
+                                    "status": "O",
+                                    "ITEM": {
+                                        "position": "88",
+                                        "value": "includes unique front air splitter; larger radiator; upsized rear sway bar (fastback only); heavy-duty front springs (fastback only); unique chassis tuning; larger brake rotors with 4-piston calipers; 19\" Ebony Black-painted aluminum wheels with 255/40R19 summer-only tires2 ; unique electric power-assisted steering, ABS and electronic stability control tuning; Engine Turn aluminum dash panel; Gauge Pack (oil pressure and boost); spoiler delete; and 3.55",
+                                        "status": "1 gear ratio with limited-slip rear differential (n/a with optional wheels)"
+                                    }
+                                },
+                                {
+                                    "package_name": " Enhanced Security Package",
+                                    "status": "O",
+                                    "ITEM": {
+                                        "position": "90",
+                                        "value": "includes electroniclocking center console, Active Anti-Theft System, electronic steering column lock and wheel locks"
+                                    }
+                                },
+                                {
+                                    "package_name": " Premier Trim With Color Accent Group3",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "92",
+                                            "value": "includes Charcoal Black interior environment with coloraccented seats and unique door-trim panel inserts (n/a with 50 Years Appearance Package)"
+                                        },
+                                        {
+                                            "position": "93",
+                                            "value": "RECARO Ebony sport leather-trimmed seats with manual adjustment3 (fastback only; n/a with 50 Years Appearance Package, heated and cooled front seats or memory feature)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "94",
+                                            "value": "Reverse Sensing System Spare wheel and tire (n/a with 20\" wheels or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "95",
+                                            "value": "Spoiler delete (n/a with 50 Years Appearance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "96",
+                                            "value": "Voice-activated Navigation System with integrated SiriusXM Traffic and Travel Link services with 5-year subscription",
+                                            "status": "O"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "Vehicle_id": "436230",
+                        "Model_Year": "2015",
+                        "Make": "Ford",
+                        "Model": "Mustang",
+                        "Trim_Level": "Ecoboost Premium",
+                        "SPECYFICATION": {
+                            "ITEM": [
+                                {
+                                    "item_name": "f201",
+                                    "item_description": "Engine size and type",
+                                    "item_value": "L4, 2.3L; DOHC 16V; Turbo"
+                                },
+                                {
+                                    "item_name": "f203",
+                                    "item_description": "Construction",
+                                    "item_value": "L "
+                                },
+                                {
+                                    "item_name": "f204",
+                                    "item_description": "No of cylinders",
+                                    "item_value": "4"
+                                },
+                                {
+                                    "item_name": "f205",
+                                    "item_description": "Eng Displ - Liters",
+                                    "item_value": "2.3"
+                                },
+                                {
+                                    "item_name": "f208",
+                                    "item_description": "Net power",
+                                    "item_value": "310 @ 5500"
+                                },
+                                {
+                                    "item_name": "f209",
+                                    "item_description": "Net torque",
+                                    "item_value": "320 @ 3000"
+                                },
+                                {
+                                    "item_name": "f217",
+                                    "item_description": "Cam",
+                                    "item_value": "DOHC"
+                                },
+                                {
+                                    "item_name": "f223",
+                                    "item_description": "Fuel Tank capacity gallons (liters)",
+                                    "item_value": "15.5"
+                                },
+                                {
+                                    "item_name": "f224",
+                                    "item_description": "Transmission type",
+                                    "item_value": "6-speed manual"
+                                },
+                                {
+                                    "item_name": "f228",
+                                    "item_description": "Drive Configuration",
+                                    "item_value": "RWD"
+                                },
+                                {
+                                    "item_name": "f232",
+                                    "item_description": "Front Brakes",
+                                    "item_value": "4-wheel disc"
+                                },
+                                {
+                                    "item_name": "f233",
+                                    "item_description": "Frear Brakes",
+                                    "item_value": "4-wheel disc"
+                                },
+                                {
+                                    "item_name": "f234",
+                                    "item_description": "ABS",
+                                    "item_value": "standard"
+                                },
+                                {
+                                    "item_name": "f235",
+                                    "item_description": "Brake Assist",
+                                    "item_value": "standard"
+                                },
+                                {
+                                    "item_name": "f237",
+                                    "item_description": "Front Wheels",
+                                    "item_value": "18 inch aluminum"
+                                },
+                                {
+                                    "item_name": "f238",
+                                    "item_description": "Rear Wheels",
+                                    "item_value": "18 inch aluminum"
+                                },
+                                {
+                                    "item_name": "f239",
+                                    "item_description": "Front Tires",
+                                    "item_value": "235/50R18"
+                                },
+                                {
+                                    "item_name": "f240",
+                                    "item_description": "Rear Tires",
+                                    "item_value": "235/50R18"
+                                },
+                                {
+                                    "item_name": "f243",
+                                    "item_description": "Body Type",
+                                    "item_value": "Coupe"
+                                },
+                                {
+                                    "item_name": "f244",
+                                    "item_description": "Doors",
+                                    "item_value": "2"
+                                },
+                                {
+                                    "item_name": "f247",
+                                    "item_description": "Front Suspension",
+                                    "item_value": "MacPherson strut"
+                                },
+                                {
+                                    "item_name": "f248",
+                                    "item_description": "Rear Suspension",
+                                    "item_value": "integral link"
+                                },
+                                {
+                                    "item_name": "f255",
+                                    "item_description": "Wheelbase",
+                                    "item_value": "107.1"
+                                },
+                                {
+                                    "item_name": "f256",
+                                    "item_description": "Overal Length",
+                                    "item_value": "188.3"
+                                },
+                                {
+                                    "item_name": "f257",
+                                    "item_description": "Overal Height",
+                                    "item_value": "54.4"
+                                },
+                                {
+                                    "item_name": "f258",
+                                    "item_description": "Overall width",
+                                    "item_value": "81.9"
+                                },
+                                {
+                                    "item_name": "f262",
+                                    "item_description": "Front Headroom",
+                                    "item_value": "37.6"
+                                },
+                                {
+                                    "item_name": "f263",
+                                    "item_description": "Front Legroom",
+                                    "item_value": "44.5"
+                                },
+                                {
+                                    "item_name": "f264",
+                                    "item_description": "Front Shoulder room",
+                                    "item_value": "56.3"
+                                },
+                                {
+                                    "item_name": "f265",
+                                    "item_description": "Front Hip Room",
+                                    "item_value": "54.9"
+                                },
+                                {
+                                    "item_name": "f266",
+                                    "item_description": "Rear Headroom",
+                                    "item_value": "34.8"
+                                },
+                                {
+                                    "item_name": "f267",
+                                    "item_description": "Rear Legroom",
+                                    "item_value": "30.6"
+                                },
+                                {
+                                    "item_name": "f268",
+                                    "item_description": "Rear Shoulder room",
+                                    "item_value": "52.2"
+                                },
+                                {
+                                    "item_name": "f269",
+                                    "item_description": "Rear Hip room",
+                                    "item_value": "47.4"
+                                },
+                                {
+                                    "item_name": "f270",
+                                    "item_description": "Cabin Capacity",
+                                    "item_value": "84.5"
+                                },
+                                {
+                                    "item_name": "f271",
+                                    "item_description": "Cargo Capacity",
+                                    "item_value": "13.5"
+                                },
+                                {
+                                    "item_name": "f280",
+                                    "item_description": "Fuel economy (city/highway/combined) - mpg",
+                                    "item_value": "22/31/26"
+                                },
+                                {
+                                    "item_name": "f301",
+                                    "item_description": "Warranty whole vehicle Months",
+                                    "item_value": "36"
+                                },
+                                {
+                                    "item_name": "f302",
+                                    "item_description": "Warranty whole vehicle Miles",
+                                    "item_value": "36 000"
+                                },
+                                {
+                                    "item_name": "f303",
+                                    "item_description": "Warranty powertrain Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f304",
+                                    "item_description": "Warranty powertrain Miles",
+                                    "item_value": "60 000"
+                                },
+                                {
+                                    "item_name": "f305",
+                                    "item_description": "Warranty anti-corrosion Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f306",
+                                    "item_description": "Warranty anti-corrosion Miles",
+                                    "item_value": "unlimited"
+                                },
+                                {
+                                    "item_name": "f307",
+                                    "item_description": "Warranty roadside assistance Months",
+                                    "item_value": "60"
+                                },
+                                {
+                                    "item_name": "f308",
+                                    "item_description": "Warranty roadside assistance Miles",
+                                    "item_value": "60 000"
+                                }
+                            ]
+                        },
+                        "EQUIPMENT": {
+                            "PACKAGE": [
+                                {
+                                    "package_name": "",
+                                    "status": "S",
+                                    "ITEM": [
+                                        {
+                                            "position": "0",
+                                            "value": "4-wheel vented disc Anti-Lock Brake System (ABS)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "1",
+                                            "value": "Selectable-effort electric power-assisted steering (Standard, Sport, Comfort)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "2",
+                                            "value": "Suspension  Front",
+                                            "status": " independent double-ball-joint MacPherson strut with stabilizer bar Suspension  Rear"
+                                        },
+                                        {
+                                            "position": "3",
+                                            "value": "Tire mobility kit",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "4",
+                                            "value": "4-way adjustable front head restraints",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "5",
+                                            "value": "50/50 split-fold rear seat (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "6",
+                                            "value": "Front bucket seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "7",
+                                            "value": "12-volt powerpoints (2)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "8",
+                                            "value": "Auto-dimming rearview mirror",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "9",
+                                            "value": "Carpeted front floor mats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "10",
+                                            "value": "Cruise control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "11",
+                                            "value": "Full center floor console with storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "12",
+                                            "value": "Illuminated locking glove compartment",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "13",
+                                            "value": "Intelligent Access with push-button start",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "14",
+                                            "value": "Leather-wrapped steering wheel and parking brake handle",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "15",
+                                            "value": "Power door locks",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "16",
+                                            "value": "Power windows with global open and one-touchup/-down feature (one-touch-up fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "17",
+                                            "value": "Rear view camera",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "18",
+                                            "value": "Steering wheel-mounted cruise, audio and 5-way controls",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "19",
+                                            "value": "Sun visors with illuminated vanity mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "20",
+                                            "value": "Sunglasses storage bin",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "21",
+                                            "value": "Tilt/telescoping steering column",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "22",
+                                            "value": "Automatic headlamps with wiper activation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "23",
+                                            "value": "Easy Fuel capless fuel filler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "24",
+                                            "value": "Embedded radio antenna (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "25",
+                                            "value": "HID headlamps with signature lighting",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "26",
+                                            "value": "LED taillamps with sequential turn signals",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "27",
+                                            "value": "Rear-window defroster",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "28",
+                                            "value": "Sideview mirrors with integrated blind spot mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "29",
+                                            "value": "Windshield wipers  Variable-intermittent",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "30",
+                                            "value": "Personal Safety System with dual-stage front airbags",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "31",
+                                            "value": "Active Knee-Airbag Glovebox",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "32",
+                                            "value": "AdvanceTrac electronic stability control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "33",
+                                            "value": "Belt-Minder front safety belt reminder",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "34",
+                                            "value": "Drivers knee airbag",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "35",
+                                            "value": "Front-seat side airbags3 Illuminated",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "36",
+                                            "value": "Entry System Individual",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "37",
+                                            "value": "Tire Pressure Monitoring System (excludes available spare)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "38",
+                                            "value": "LATCH  Lower Anchors and Tether Anchors for Children",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "39",
+                                            "value": "MyKey",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "40",
+                                            "value": "Perimeter alarm",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "41",
+                                            "value": "Safety belt restraint system  Manual 3-point shoulder and lap safety belt system for all seating positions",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "42",
+                                            "value": "SecuriLock Passive Anti-Theft System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "43",
+                                            "value": "Side-curtain airbags3 (fastback only)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "44",
+                                            "value": "SOS Post-Crash Alert System",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "45",
+                                            "value": "4-way manually adjustable drivers seat with height adjustment",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "46",
+                                            "value": "2-way manually adjustable front-passenger seat",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "47",
+                                            "value": "Cloth seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "48",
+                                            "value": "AM/FM stereo/single-CD player with 6 speakers",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "49",
+                                            "value": "Ford SYNC enhanced voice recognition communications and entertainment system with 4.2\" color LCD display in center stack, AppLink, 911 Assist, and 2 smart-charging USB ports",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "50",
+                                            "value": "Auxiliary audio input jack",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "51",
+                                            "value": "Single-zone manual air conditioning Track Apps located in instrument cluster",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "52",
+                                            "value": "17\" Sparkle Silver-painted aluminum wheels with P235/55R17 all-season tires",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "53",
+                                            "value": "Black cloth top on convertible",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "54",
+                                            "value": "Body-color power sideview mirrors",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "55",
+                                            "value": "Dual bright slashed-cut exhaust tips",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "56",
+                                            "value": "Active noise cancellation",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "57",
+                                            "value": "6-way power drivers seat with power lumbar",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "58",
+                                            "value": "6-way power front-passenger seat Interior",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "59",
+                                            "value": "Diamond-mesh aluminum dash panel",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "60",
+                                            "value": "Blade-style decklid spoiler",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "61",
+                                            "value": "LED fog lamps",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "62",
+                                            "value": "Selectable Drive Modes with 4-gang toggle switch pack (Normal, Sport+, Track, Snow/Wet)",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "63",
+                                            "value": "Heated and cooled front seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "64",
+                                            "value": "Leather-trimmed seats",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "65",
+                                            "value": "Aluminum brake and accelerator pedals",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "66",
+                                            "value": "Ambient lighting AM/FM stereo/single-CD player with 9 speakers and amplifier",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "67",
+                                            "value": "Bright-finish door speaker surrounds",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "68",
+                                            "value": "Dual-zone electronic automatic temperature control",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "69",
+                                            "value": "Illuminated door-sill plates",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "70",
+                                            "value": "Premium door-trim panel inserts",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "71",
+                                            "value": "Satin Brush aluminum dash panel",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "72",
+                                            "value": "SiriusXM Satellite Radio with 6-month trial subscription",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "73",
+                                            "value": "SYNC with MyFord Touch voice-activated, in-vehicle connectivity system with 8\" color LCD touch screen in center stack and media hub with USB port Universal garage door opener",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "74",
+                                            "value": "18\" Magnetic-painted machined aluminum wheels with P235/50R18 all-season tires",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "75",
+                                            "value": "Body-color power, heated sideview mirrors with integrated turn signal indicators",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "76",
+                                            "value": "Pony projection lamps",
+                                            "status": "S"
+                                        },
+                                        {
+                                            "position": "77",
+                                            "value": "Rear diffuser",
+                                            "status": "S"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " Equipment Group 201A",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "79",
+                                            "value": "Shaker Pro Audio System with 12 speakers and amplifier, HD Radio Technology, drivers seat and sideview mirror memory feature, and BLIS (Blind Spot Information System) with cross-traffic alert"
+                                        },
+                                        {
+                                            "position": "80",
+                                            "value": "6-speed SelectShift automatic transmission with steering wheel-mounted paddle shifters and Remote Start System",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "81",
+                                            "value": "18\" Foundry Black-painted aluminum wheels with 235/50R18 all-season tires (n/a with 50 Years Appearance Package or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "82",
+                                            "value": "20\" x 9\" Foundry Black-painted machined aluminum wheels with 265/35R20 summer-only tires2 (n/a with 50 Years Appearance Package or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " 50 Years Appearance Package3",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "84",
+                                            "value": "includes 50 Years grille with bright surround, 19\" premium Luster Nickel-painted aluminum wheels with 255/40R19 all-season tires, unique rear gas cap badge, Axle Spin aluminum dash panel, and unique seat and door-trim panel inserts (n/a with optional wheels, Premier Trim With Color Accent Group, RECARO seats, or spoiler delete)"
+                                        },
+                                        {
+                                            "position": "85",
+                                            "value": "Adaptive cruise control and collision warning with brake support, and rain-sensing windshield wipers",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "86",
+                                            "value": "All-weather floor mats",
+                                            "status": "O"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "package_name": " EcoBoost Performance Package3",
+                                    "status": "O",
+                                    "ITEM": {
+                                        "position": "88",
+                                        "value": "includes unique front air splitter; larger radiator; upsized rear sway bar (fastback only); heavy-duty front springs (fastback only); unique chassis tuning; larger brake rotors with 4-piston calipers; 19\" Ebony Black-painted aluminum wheels with 255/40R19 summer-only tires2 ; unique electric power-assisted steering, ABS and electronic stability control tuning; Engine Turn aluminum dash panel; Gauge Pack (oil pressure and boost); spoiler delete; and 3.55",
+                                        "status": "1 gear ratio with limited-slip rear differential (n/a with optional wheels)"
+                                    }
+                                },
+                                {
+                                    "package_name": " Enhanced Security Package",
+                                    "status": "O",
+                                    "ITEM": {
+                                        "position": "90",
+                                        "value": "includes electroniclocking center console, Active Anti-Theft System, electronic steering column lock and wheel locks"
+                                    }
+                                },
+                                {
+                                    "package_name": " Premier Trim With Color Accent Group3",
+                                    "status": "O",
+                                    "ITEM": [
+                                        {
+                                            "position": "92",
+                                            "value": "includes Charcoal Black interior environment with coloraccented seats and unique door-trim panel inserts (n/a with 50 Years Appearance Package)"
+                                        },
+                                        {
+                                            "position": "93",
+                                            "value": "RECARO Ebony sport leather-trimmed seats with manual adjustment3 (fastback only; n/a with 50 Years Appearance Package, heated and cooled front seats or memory feature)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "94",
+                                            "value": "Reverse Sensing System Spare wheel and tire (n/a with 20\" wheels or EcoBoost Performance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "95",
+                                            "value": "Spoiler delete (n/a with 50 Years Appearance Package)",
+                                            "status": "O"
+                                        },
+                                        {
+                                            "position": "96",
+                                            "value": "Voice-activated Navigation System with integrated SiriusXM Traffic and Travel Link services with 5-year subscription",
+                                            "status": "O"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: MyVinlinkApp Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Debug/net9.0/MyVinlinkApp.dll",
+            "args": ["-t", "enhanced", "1FA6P8TH7F5352435"],
+            "cwd": "${workspaceFolder}",
+        
+        }
+
+    ]
+}

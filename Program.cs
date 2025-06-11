@@ -37,7 +37,7 @@ class Program
 
         rootCommand.SetHandler(async (string vin, string reportType, bool raw) =>
         {
-            string url = $"https://service-ba.vinlink.com/report?vin={vin}&type={reportType}&xsl=xml2json";
+            string url = $"https://service-ba.vinlink.com/report?vin={vin}&type={reportType}&xsl=json";
             using HttpClient client = new HttpClient();
 
             string username;
@@ -103,37 +103,26 @@ class Program
                         if (root.GetProperty("REPORTS").GetProperty("REPORT").TryGetProperty("VEHICLES", out var vehicles))
                         {
                             var vehicle = vehicles.GetProperty("VEHICLE");
-                            Console.WriteLine("[VEHICLE DETAILS]");
-                            foreach (var prop in vehicle.EnumerateObject())
+                            // VEHICLE can be an array or an object
+                            if (vehicle.ValueKind == JsonValueKind.Array)
                             {
-                                if (prop.NameEquals("SPECYFICATION"))
+                                foreach (var veh in vehicle.EnumerateArray())
                                 {
-                                    Console.WriteLine("\nSpecification:");
-                                    if (prop.Value.TryGetProperty("ITEM", out var specItems) && specItems.ValueKind == JsonValueKind.Array)
-                                    {
-                                        foreach (var spec in specItems.EnumerateArray())
-                                        {
-                                            string desc = spec.TryGetProperty("item_description", out var d) ? d.GetString() ?? "" : "";
-                                            string val = spec.TryGetProperty("item_value", out var v) ? v.GetString() ?? "" : "";
-                                            if (!string.IsNullOrWhiteSpace(desc))
-                                                Console.WriteLine($"  {desc,-40} : {val}");
-                                        }
-                                    }
+                                    PrintVehicleDetails(veh);
                                 }
-                                else if (prop.NameEquals("EQUIPMENT"))
-                                {
-                                    // skip or implement if needed
-                                }
-                                else
-                                {
-                                    Console.WriteLine($"{prop.Name,-30} : {prop.Value.GetString()}");
-                                }
+                            }
+                            else
+                            {
+                                PrintVehicleDetails(vehicle);
                             }
                         }
                     }
-                    catch
+                   
+                    catch (Exception ex)
                     {
                         Console.WriteLine("(Could not pretty-print VIN/VEHICLE section, showing raw output)");
+                        Console.WriteLine(ex);
+
                         Console.WriteLine(report);
                     }
                 }
@@ -175,5 +164,66 @@ class Program
         } while (key != ConsoleKey.Enter);
         Console.WriteLine();
         return pwd;
+    }
+
+    // Helper to print VEHICLE details
+    private static void PrintVehicleDetails(JsonElement vehicle)
+    {
+        Console.WriteLine("[VEHICLE DETAILS]");
+        foreach (var prop in vehicle.EnumerateObject())
+        {
+            if (prop.NameEquals("SPECYFICATION"))
+            {
+                Console.WriteLine("\nSpecification:");
+                if (prop.Value.TryGetProperty("ITEM", out var specItems) && specItems.ValueKind == JsonValueKind.Array)
+                {
+                    foreach (var spec in specItems.EnumerateArray())
+                    {
+                        string desc = spec.TryGetProperty("item_description", out var d) ? d.GetString() ?? "" : "";
+                        if (string.IsNullOrWhiteSpace(desc))
+                            desc = spec.TryGetProperty("item_name", out var n) ? n.GetString() ?? "" : "";
+                        string val = spec.TryGetProperty("item_value", out var v) ? v.GetString() ?? "" : spec.GetString() ?? "";
+                        if (!string.IsNullOrWhiteSpace(desc) || !string.IsNullOrWhiteSpace(val))
+                            Console.WriteLine($"  {desc,-40} : {val}");
+                    }
+                }
+            }
+            else if (prop.NameEquals("EQUIPMENT"))
+            {
+                Console.WriteLine("\nEquipment:");
+                if (prop.Value.TryGetProperty("PACKAGE", out var packages) && packages.ValueKind == JsonValueKind.Array)
+                {
+                    int pkgIdx = 1;
+                    foreach (var pkg in packages.EnumerateArray())
+                    {
+                        // Print package name if present
+                        string pkgName = pkg.TryGetProperty("package_name", out var pn) ? pn.GetString() ?? string.Empty : string.Empty;
+                        string pkgStatus = pkg.TryGetProperty("status", out var ps) ? ps.GetString() ?? string.Empty : string.Empty;
+                        if (!string.IsNullOrWhiteSpace(pkgName))
+                            Console.WriteLine($"  Package: {pkgName} ({pkgStatus})");
+                        else if (!string.IsNullOrWhiteSpace(pkgStatus))
+                            Console.WriteLine($"  Package {pkgIdx++} ({pkgStatus})");
+                        // Print items in package
+                        if (pkg.TryGetProperty("ITEM", out var items) && items.ValueKind == JsonValueKind.Array)
+                        {
+                            foreach (var item in items.EnumerateArray())
+                            {
+                                string eqName = item.TryGetProperty("value", out var v) ? v.GetString() ?? "" : "";
+                                string eqStatus = item.TryGetProperty("status", out var s) ? s.GetString() ?? "" : "";
+                                string eqType = eqStatus == "O" ? "Optional" : "Standard";
+                                if (eqStatus != "S" && eqStatus != "O") eqType = "Standard"; // treat unknown as Standard
+                                if (!string.IsNullOrWhiteSpace(eqName))
+                                    Console.WriteLine($"    - {eqName} [{eqType}]");
+                            }
+                        }
+                    }
+                }
+            }
+            else
+            {
+                // Print all other VEHICLE fields (Make, Model, Model_Year, etc.)
+                Console.WriteLine($"{prop.Name,-30} : {prop.Value.GetString()}");
+            }
+        }
     }
 }
