@@ -17,6 +17,9 @@ class Program
         string? savedUsername = config["Username"];
         string? savedPassword = config["Password"];
 
+
+        // Define command line arguments and options
+        // We use a simple command line interface with one required argument (VIN) and two options (type and raw)
         var vinArgument = new Argument<string>("vin", "VIN to fetch report for");
         var typeOption = new Option<string>(
             aliases: new[] { "--type", "-t", "/type" },
@@ -35,13 +38,20 @@ class Program
             rawOption
         };
 
+        // Set the handler for the command
+        // This is where we will perform the HTTP request to fetch the VIN report
         rootCommand.SetHandler(async (string vin, string reportType, bool raw) =>
         {
+            // prepare the URL, we send the vin and report type, we ask to output JSON using xsl=json transformation
+            // by default the service returns XML, but we can request JSON format which is easier to work with
             string url = $"https://service-ba.vinlink.com/report?vin={vin}&type={reportType}&xsl=json";
             using HttpClient client = new HttpClient();
 
             string username;
             string password;
+
+            // If saved credentials are available, use them; otherwise prompt for input
+            // This allows the user to save their credentials in appsettings.json for future use
             if (!string.IsNullOrEmpty(savedUsername) && !string.IsNullOrEmpty(savedPassword))
             {
                 username = savedUsername;
@@ -56,12 +66,15 @@ class Program
                 password = ReadPassword();
             }
 
+
+            // Set the Authorization header with Basic authentication
             var byteArray = System.Text.Encoding.ASCII.GetBytes($"{username}:{password}");
             client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Basic", Convert.ToBase64String(byteArray));
 
             try
             {
                 Console.WriteLine($"Fetching report for VIN: {vin}...");
+                // Make the request
                 var response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();
                 string report = await response.Content.ReadAsStringAsync();
@@ -76,7 +89,8 @@ class Program
                     {
                         using var doc = JsonDocument.Parse(report);
                         var root = doc.RootElement;
-                        // VIN section
+                        // VIN section, here we process the part that belongs to basic and basic_plus reports
+                        // For enhanced reports, we will also print VEHICLES section further down
                         var vinSection = root
                             .GetProperty("REPORTS")
                             .GetProperty("REPORT")
@@ -117,11 +131,13 @@ class Program
                             }
                         }
                     }
-                   
+
                     catch (Exception ex)
                     {
                         Console.WriteLine("(Could not pretty-print VIN/VEHICLE section, showing raw output)");
+                        #if DEBUG
                         Console.WriteLine(ex);
+                        #endif
 
                         Console.WriteLine(report);
                     }

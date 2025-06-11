@@ -1,0 +1,468 @@
+Fetching report for VIN: 1FA6P8TH7F5352435...
+VIN Report:
+VIN: 1FA6P8TH7F5352435
+Make: Ford
+Model: Mustang
+Model Year: 2015
+
+Field Name                     | Value
+------------------------------------------------------------
+Model Year                     | 2015
+Make                           | Ford
+Model                          | Mustang
+Trim Level                     | EcoBoost; EcoBoost Premium
+Body Type                      | 2 Door Coupe
+Manufacturer                   | Ford Motor Company
+Production Seq. Number         | 352435
+Engine Type                    | L4, 2.3L; DOHC 16V; Turbo
+Fuel Type                      | Gasoline
+Engine Code                    | H
+Drive Line Type                | RWD
+Vehicle Type                   | Passenger Car
+Vehicle Class                  | Small Car
+Restraint System               | Dual Air Bag; Manual Belts; Side Air Bag-1st Row, 2nd Row; Driver and Pass Knee
+Country                        | UNITED STATES
+Assy. Plant                    | AAI: Flat Rock, MI
+Check Digit                    | 7
+MPG                            | S6:22-32-25/M5:22-31-26
+AAIA                           | 214280/214290
+AAIA_ENGINE                    | 19665
+AAIA_LEGACY                    | 
+AAIA_TRANSMISSION              | 3113/2937
+AAIA_VehicleID                 | 214280/214280
+AAIA_EngineConfigID            | 19665/19665
+AAIA_TransmissionID            | 3113/2937
+AAIA_BodyStyleConfigID         | 7/7
+AAIA_BrakeConfigID             | 6/6
+AAIA_DriveTypeID               | 7/7
+AAIA_SpringTypeConfigID        | 1/1
+
+[VEHICLE DETAILS]
+Vehicle_id                     : 424682
+Model_Year                     : 2015
+Make                           : Ford
+Model                          : Mustang
+Trim_Level                     : EcoBoost
+
+Specification:
+  Engine size and type                     : L4, 2.3L; DOHC 16V; Turbo
+  Construction                             : L
+  No of cylinders                          : 4
+  Eng Displ - cc                           : 2300
+  Engine Location                          : Front
+  Net power                                : 310 @ 5500
+  Net torque                               : 320 @ 2500
+  Compression ratio                        : 9.5
+  Bore                                     : 3.45
+  Stroke                                   : 3.7
+  Intake System                            : Composite shell-welded with runner pack
+  Fuel system                              : Direct injection
+  Ignition System                          : Distributor-less with coil-on-plug
+  Cam                                      : Twin independent variable
+  No of valves per cyl                     : 4
+  Oil Capacity - quarts (liters)           : 6
+  Fuel requirement                         : Regular unleaded (87 octane)
+  Fuel Tank capacity gallons (liters)      : 15.5
+  Transmission type                        : 6-speed manual
+  Optionl Transmission                     : 4.236, 2.538, 1.665, 1.2387, 1.00, 0.704
+  Drive Configuration                      : RWD
+  Front Brakes                             : 4-wheel, vented discs, 2-piston floating aluminum calipers
+  Frear Brakes                             : 4-wheel, solid discs, single-piston floating aluminum calipers
+  ABS                                      : Standard
+  Front Wheels                             : 17 x 7.5 aluminum
+  Rear Wheels                              : 17 x 7.5 aluminum
+  Front Tires                              : 235/55R H A/S 
+  Rear Tires                               : 235/55R H A/S 
+  Body Type                                : Coupe
+  Doors                                    : 2
+  Front Suspension                         : Double-ball-joint independent MacPherson strut and tubular stabilizer bar
+  Rear Suspension                          : Integral-link independent with coil springs, solid stabilizer bars
+  Steering                                 : Electric power-assisted steering with rack-and-pinion gear
+  Wheelbase                                : 107.1
+  Overal Length                            : 188.3
+  Overal Height                            : 54.4
+  Overall width                            : 75.4
+  Track front                              : 62.3
+  Track rear                               : 64.9
+  Front Headroom                           : 37.6
+  Front Legroom                            : 44.5
+  Front Shoulder room                      : 56.3
+  Front Hip Room                           : 54.9
+  Rear Headroom                            : 34.8
+  Rear Legroom                             : 30.6
+  Rear Shoulder room                       : 52.2
+  Rear Hip room                            : 47.4
+  Cargo Capacity                           : 13.5
+  Curb Weight - lbs                        : 3532
+  Fuel economy (city/highway/combined) - mpg : 21/32/25
+
+Equipment:
+  Package 1 (S)
+    - 4-way adjustable front head restraints [Standard]
+    - 50/50 split-fold rear seat [Standard]
+    - Front bucket seats [Standard]
+    - 12-volt powerpoints (2) [Standard]
+    - Auto-dimming rearview mirror [Standard]
+    - Carpeted front floor mats [Standard]
+    - Cruise control [Standard]
+    - Full center floor console with storage bin [Standard]
+    - Illuminated locking flove compartment [Standard]
+    - Intelligent Access with push-button start [Standard]
+    - Leather-wrapped steering wheel and parking brake handles [Standard]
+    - Power door locks [Standard]
+    - Power windows with global open and one-touch-up/-down feature [Standard]
+    - Power windows on-touch-up feature [Standard]
+    - Rear view camera [Standard]
+    - Steering wheel-mounted cruise, audio and 5-way controls [Standard]
+    - Sun visors with illuminated vanity mirrors [Standard]
+    - Sunglasses storage bin [Standard]
+    - Tilt/telescoping steering column [Standard]
+    - Automatic headlamps with wiper activation [Standard]
+    - Easy Fuel capless fuel filler [Standard]
+    - Embedded radio antenna [Standard]
+    - HID headlamps with signature lighting [Standard]
+    - LED taillamps with sequential turn signals [Standard]
+    - Rear-window defroster [Standard]
+    - Sideview mirrors with integrated blind spot mirrors [Standard]
+    - Windshield wipers - Variable-intermittent [Standard]
+    - Personal Safety System with dual-stage front airbags [Standard]
+    - Active Knee-Airbag Glovebox [Standard]
+    - AdvanceTrac electronic stability control [Standard]
+    - Belt-Minder front safety belt reminder [Standard]
+    - Driver's knee airbag [Standard]
+    - Front-seat side airbags [Standard]
+    - Illuminated Entry System [Standard]
+    - Individual Tire Pressure Monitoring System [Standard]
+    - LATCH - Lower Anchors and Tehter Anchors for Children [Standard]
+    - MyKey [Standard]
+    - Perimeter alarm [Standard]
+    - Safety belt restraint system - Manual 3-point shoulder and lap safety belt system for all seating positions [Standard]
+    - SecuriLock Passive Anti-Theft System [Standard]
+    - Side-curtain airbags [Standard]
+    - SOS Post-Crash Alert System [Standard]
+    - Diamond-mesh aluminum dash panel [Standard]
+    - Blade-style decklid spoiler [Standard]
+    - LED fog lamps [Standard]
+    - Active noise cancellation [Standard]
+    - All-weather floor mats [Optional]
+    - RECARO Ebony sport cloth seats with manual adjustment [Optional]
+    - Reverse Sensing System [Optional]
+    - Spoiler delete [Optional]
+  Package:  EcoBoost Performance Package (O)
+    - Unique front air splitter [Standard]
+    - Large radiator [Standard]
+    - Upsized rear sway bar [Standard]
+    - Heavy-duty front springs [Standard]
+    - Unique chassis tuning [Standard]
+    - Larger brake rotors with 4-piston calipers [Standard]
+    - 19" Ebony Black-painted aluminum wheels with 255/40R19 summer-only tires [Standard]
+    - Unique electric power-assisted steering, ABS and electronic stability control tuning [Standard]
+    - Engine Turn aluminum dash panel [Standard]
+    - Gauge Pack (oil pressure and boost) [Standard]
+    - Spoiler delete [Standard]
+  Package:  Enhanced Security Package (O)
+    - Electronic-locking center console [Standard]
+    - Active Anti-Theft System [Standard]
+    - Electronic steering column lock and wheel locks [Standard]
+[VEHICLE DETAILS]
+Vehicle_id                     : 436230
+Model_Year                     : 2015
+Make                           : Ford
+Model                          : Mustang
+Trim_Level                     : Ecoboost Premium
+
+Specification:
+  Engine size and type                     : L4, 2.3L; DOHC 16V; Turbo
+  Construction                             : L 
+  No of cylinders                          : 4
+  Eng Displ - Liters                       : 2.3
+  Net power                                : 310 @ 5500
+  Net torque                               : 320 @ 3000
+  Cam                                      : DOHC
+  Fuel Tank capacity gallons (liters)      : 15.5
+  Transmission type                        : 6-speed manual
+  Drive Configuration                      : RWD
+  Front Brakes                             : 4-wheel disc
+  Frear Brakes                             : 4-wheel disc
+  ABS                                      : standard
+  Brake Assist                             : standard
+  Front Wheels                             : 18 inch aluminum
+  Rear Wheels                              : 18 inch aluminum
+  Front Tires                              : 235/50R18
+  Rear Tires                               : 235/50R18
+  Body Type                                : Coupe
+  Doors                                    : 2
+  Front Suspension                         : MacPherson strut
+  Rear Suspension                          : integral link
+  Wheelbase                                : 107.1
+  Overal Length                            : 188.3
+  Overal Height                            : 54.4
+  Overall width                            : 81.9
+  Front Headroom                           : 37.6
+  Front Legroom                            : 44.5
+  Front Shoulder room                      : 56.3
+  Front Hip Room                           : 54.9
+  Rear Headroom                            : 34.8
+  Rear Legroom                             : 30.6
+  Rear Shoulder room                       : 52.2
+  Rear Hip room                            : 47.4
+  Cabin Capacity                           : 84.5
+  Cargo Capacity                           : 13.5
+  Fuel economy (city/highway/combined) - mpg : 22/31/26
+  Warranty whole vehicle Months            : 36
+  Warranty whole vehicle Miles             : 36 000
+  Warranty powertrain Months               : 60
+  Warranty powertrain Miles                : 60 000
+  Warranty anti-corrosion Months           : 60
+  Warranty anti-corrosion Miles            : unlimited
+  Warranty roadside assistance Months      : 60
+  Warranty roadside assistance Miles       : 60 000
+
+Equipment:
+  Package 1 (S)
+    - 4-wheel vented disc Anti-Lock Brake System (ABS) [Standard]
+    - Selectable-effort electric power-assisted steering (Standard, Sport, Comfort) [Standard]
+    - Suspension  Front [Standard]
+    - Tire mobility kit [Standard]
+    - 4-way adjustable front head restraints [Standard]
+    - 50/50 split-fold rear seat (fastback only) [Standard]
+    - Front bucket seats [Standard]
+    - 12-volt powerpoints (2) [Standard]
+    - Auto-dimming rearview mirror [Standard]
+    - Carpeted front floor mats [Standard]
+    - Cruise control [Standard]
+    - Full center floor console with storage bin [Standard]
+    - Illuminated locking glove compartment [Standard]
+    - Intelligent Access with push-button start [Standard]
+    - Leather-wrapped steering wheel and parking brake handle [Standard]
+    - Power door locks [Standard]
+    - Power windows with global open and one-touchup/-down feature (one-touch-up fastback only) [Standard]
+    - Rear view camera [Standard]
+    - Steering wheel-mounted cruise, audio and 5-way controls [Standard]
+    - Sun visors with illuminated vanity mirrors [Standard]
+    - Sunglasses storage bin [Standard]
+    - Tilt/telescoping steering column [Standard]
+    - Automatic headlamps with wiper activation [Standard]
+    - Easy Fuel capless fuel filler [Standard]
+    - Embedded radio antenna (fastback only) [Standard]
+    - HID headlamps with signature lighting [Standard]
+    - LED taillamps with sequential turn signals [Standard]
+    - Rear-window defroster [Standard]
+    - Sideview mirrors with integrated blind spot mirrors [Standard]
+    - Windshield wipers  Variable-intermittent [Standard]
+    - Personal Safety System with dual-stage front airbags [Standard]
+    - Active Knee-Airbag Glovebox [Standard]
+    - AdvanceTrac electronic stability control [Standard]
+    - Belt-Minder front safety belt reminder [Standard]
+    - Drivers knee airbag [Standard]
+    - Front-seat side airbags3 Illuminated [Standard]
+    - Entry System Individual [Standard]
+    - Tire Pressure Monitoring System (excludes available spare) [Standard]
+    - LATCH  Lower Anchors and Tether Anchors for Children [Standard]
+    - MyKey [Standard]
+    - Perimeter alarm [Standard]
+    - Safety belt restraint system  Manual 3-point shoulder and lap safety belt system for all seating positions [Standard]
+    - SecuriLock Passive Anti-Theft System [Standard]
+    - Side-curtain airbags3 (fastback only) [Standard]
+    - SOS Post-Crash Alert System [Standard]
+    - 4-way manually adjustable drivers seat with height adjustment [Standard]
+    - 2-way manually adjustable front-passenger seat [Standard]
+    - Cloth seats [Standard]
+    - AM/FM stereo/single-CD player with 6 speakers [Standard]
+    - Ford SYNC enhanced voice recognition communications and entertainment system with 4.2" color LCD display in center stack, AppLink, 911 Assist, and 2 smart-charging USB ports [Standard]
+    - Auxiliary audio input jack [Standard]
+    - Single-zone manual air conditioning Track Apps located in instrument cluster [Standard]
+    - 17" Sparkle Silver-painted aluminum wheels with P235/55R17 all-season tires [Standard]
+    - Black cloth top on convertible [Standard]
+    - Body-color power sideview mirrors [Standard]
+    - Dual bright slashed-cut exhaust tips [Standard]
+    - Active noise cancellation [Standard]
+    - 6-way power drivers seat with power lumbar [Standard]
+    - 6-way power front-passenger seat Interior [Standard]
+    - Diamond-mesh aluminum dash panel [Standard]
+    - Blade-style decklid spoiler [Standard]
+    - LED fog lamps [Standard]
+    - Selectable Drive Modes with 4-gang toggle switch pack (Normal, Sport+, Track, Snow/Wet) [Standard]
+    - Heated and cooled front seats [Standard]
+    - Leather-trimmed seats [Standard]
+    - Aluminum brake and accelerator pedals [Standard]
+    - Ambient lighting AM/FM stereo/single-CD player with 9 speakers and amplifier [Standard]
+    - Bright-finish door speaker surrounds [Standard]
+    - Dual-zone electronic automatic temperature control [Standard]
+    - Illuminated door-sill plates [Standard]
+    - Premium door-trim panel inserts [Standard]
+    - Satin Brush aluminum dash panel [Standard]
+    - SiriusXM Satellite Radio with 6-month trial subscription [Standard]
+    - SYNC with MyFord Touch voice-activated, in-vehicle connectivity system with 8" color LCD touch screen in center stack and media hub with USB port Universal garage door opener [Standard]
+    - 18" Magnetic-painted machined aluminum wheels with P235/50R18 all-season tires [Standard]
+    - Body-color power, heated sideview mirrors with integrated turn signal indicators [Standard]
+    - Pony projection lamps [Standard]
+    - Rear diffuser [Standard]
+  Package:  Equipment Group 201A (O)
+    - Shaker Pro Audio System with 12 speakers and amplifier, HD Radio Technology, drivers seat and sideview mirror memory feature, and BLIS (Blind Spot Information System) with cross-traffic alert [Standard]
+    - 6-speed SelectShift automatic transmission with steering wheel-mounted paddle shifters and Remote Start System [Optional]
+    - 18" Foundry Black-painted aluminum wheels with 235/50R18 all-season tires (n/a with 50 Years Appearance Package or EcoBoost Performance Package) [Optional]
+    - 20" x 9" Foundry Black-painted machined aluminum wheels with 265/35R20 summer-only tires2 (n/a with 50 Years Appearance Package or EcoBoost Performance Package) [Optional]
+  Package:  50 Years Appearance Package3 (O)
+    - includes 50 Years grille with bright surround, 19" premium Luster Nickel-painted aluminum wheels with 255/40R19 all-season tires, unique rear gas cap badge, Axle Spin aluminum dash panel, and unique seat and door-trim panel inserts (n/a with optional wheels, Premier Trim With Color Accent Group, RECARO seats, or spoiler delete) [Standard]
+    - Adaptive cruise control and collision warning with brake support, and rain-sensing windshield wipers [Optional]
+    - All-weather floor mats [Optional]
+  Package:  EcoBoost Performance Package3 (O)
+  Package:  Enhanced Security Package (O)
+  Package:  Premier Trim With Color Accent Group3 (O)
+    - includes Charcoal Black interior environment with coloraccented seats and unique door-trim panel inserts (n/a with 50 Years Appearance Package) [Standard]
+    - RECARO Ebony sport leather-trimmed seats with manual adjustment3 (fastback only; n/a with 50 Years Appearance Package, heated and cooled front seats or memory feature) [Optional]
+    - Reverse Sensing System Spare wheel and tire (n/a with 20" wheels or EcoBoost Performance Package) [Optional]
+    - Spoiler delete (n/a with 50 Years Appearance Package) [Optional]
+    - Voice-activated Navigation System with integrated SiriusXM Traffic and Travel Link services with 5-year subscription [Optional]
+[VEHICLE DETAILS]
+Vehicle_id                     : 436230
+Model_Year                     : 2015
+Make                           : Ford
+Model                          : Mustang
+Trim_Level                     : Ecoboost Premium
+
+Specification:
+  Engine size and type                     : L4, 2.3L; DOHC 16V; Turbo
+  Construction                             : L 
+  No of cylinders                          : 4
+  Eng Displ - Liters                       : 2.3
+  Net power                                : 310 @ 5500
+  Net torque                               : 320 @ 3000
+  Cam                                      : DOHC
+  Fuel Tank capacity gallons (liters)      : 15.5
+  Transmission type                        : 6-speed manual
+  Drive Configuration                      : RWD
+  Front Brakes                             : 4-wheel disc
+  Frear Brakes                             : 4-wheel disc
+  ABS                                      : standard
+  Brake Assist                             : standard
+  Front Wheels                             : 18 inch aluminum
+  Rear Wheels                              : 18 inch aluminum
+  Front Tires                              : 235/50R18
+  Rear Tires                               : 235/50R18
+  Body Type                                : Coupe
+  Doors                                    : 2
+  Front Suspension                         : MacPherson strut
+  Rear Suspension                          : integral link
+  Wheelbase                                : 107.1
+  Overal Length                            : 188.3
+  Overal Height                            : 54.4
+  Overall width                            : 81.9
+  Front Headroom                           : 37.6
+  Front Legroom                            : 44.5
+  Front Shoulder room                      : 56.3
+  Front Hip Room                           : 54.9
+  Rear Headroom                            : 34.8
+  Rear Legroom                             : 30.6
+  Rear Shoulder room                       : 52.2
+  Rear Hip room                            : 47.4
+  Cabin Capacity                           : 84.5
+  Cargo Capacity                           : 13.5
+  Fuel economy (city/highway/combined) - mpg : 22/31/26
+  Warranty whole vehicle Months            : 36
+  Warranty whole vehicle Miles             : 36 000
+  Warranty powertrain Months               : 60
+  Warranty powertrain Miles                : 60 000
+  Warranty anti-corrosion Months           : 60
+  Warranty anti-corrosion Miles            : unlimited
+  Warranty roadside assistance Months      : 60
+  Warranty roadside assistance Miles       : 60 000
+
+Equipment:
+  Package 1 (S)
+    - 4-wheel vented disc Anti-Lock Brake System (ABS) [Standard]
+    - Selectable-effort electric power-assisted steering (Standard, Sport, Comfort) [Standard]
+    - Suspension  Front [Standard]
+    - Tire mobility kit [Standard]
+    - 4-way adjustable front head restraints [Standard]
+    - 50/50 split-fold rear seat (fastback only) [Standard]
+    - Front bucket seats [Standard]
+    - 12-volt powerpoints (2) [Standard]
+    - Auto-dimming rearview mirror [Standard]
+    - Carpeted front floor mats [Standard]
+    - Cruise control [Standard]
+    - Full center floor console with storage bin [Standard]
+    - Illuminated locking glove compartment [Standard]
+    - Intelligent Access with push-button start [Standard]
+    - Leather-wrapped steering wheel and parking brake handle [Standard]
+    - Power door locks [Standard]
+    - Power windows with global open and one-touchup/-down feature (one-touch-up fastback only) [Standard]
+    - Rear view camera [Standard]
+    - Steering wheel-mounted cruise, audio and 5-way controls [Standard]
+    - Sun visors with illuminated vanity mirrors [Standard]
+    - Sunglasses storage bin [Standard]
+    - Tilt/telescoping steering column [Standard]
+    - Automatic headlamps with wiper activation [Standard]
+    - Easy Fuel capless fuel filler [Standard]
+    - Embedded radio antenna (fastback only) [Standard]
+    - HID headlamps with signature lighting [Standard]
+    - LED taillamps with sequential turn signals [Standard]
+    - Rear-window defroster [Standard]
+    - Sideview mirrors with integrated blind spot mirrors [Standard]
+    - Windshield wipers  Variable-intermittent [Standard]
+    - Personal Safety System with dual-stage front airbags [Standard]
+    - Active Knee-Airbag Glovebox [Standard]
+    - AdvanceTrac electronic stability control [Standard]
+    - Belt-Minder front safety belt reminder [Standard]
+    - Drivers knee airbag [Standard]
+    - Front-seat side airbags3 Illuminated [Standard]
+    - Entry System Individual [Standard]
+    - Tire Pressure Monitoring System (excludes available spare) [Standard]
+    - LATCH  Lower Anchors and Tether Anchors for Children [Standard]
+    - MyKey [Standard]
+    - Perimeter alarm [Standard]
+    - Safety belt restraint system  Manual 3-point shoulder and lap safety belt system for all seating positions [Standard]
+    - SecuriLock Passive Anti-Theft System [Standard]
+    - Side-curtain airbags3 (fastback only) [Standard]
+    - SOS Post-Crash Alert System [Standard]
+    - 4-way manually adjustable drivers seat with height adjustment [Standard]
+    - 2-way manually adjustable front-passenger seat [Standard]
+    - Cloth seats [Standard]
+    - AM/FM stereo/single-CD player with 6 speakers [Standard]
+    - Ford SYNC enhanced voice recognition communications and entertainment system with 4.2" color LCD display in center stack, AppLink, 911 Assist, and 2 smart-charging USB ports [Standard]
+    - Auxiliary audio input jack [Standard]
+    - Single-zone manual air conditioning Track Apps located in instrument cluster [Standard]
+    - 17" Sparkle Silver-painted aluminum wheels with P235/55R17 all-season tires [Standard]
+    - Black cloth top on convertible [Standard]
+    - Body-color power sideview mirrors [Standard]
+    - Dual bright slashed-cut exhaust tips [Standard]
+    - Active noise cancellation [Standard]
+    - 6-way power drivers seat with power lumbar [Standard]
+    - 6-way power front-passenger seat Interior [Standard]
+    - Diamond-mesh aluminum dash panel [Standard]
+    - Blade-style decklid spoiler [Standard]
+    - LED fog lamps [Standard]
+    - Selectable Drive Modes with 4-gang toggle switch pack (Normal, Sport+, Track, Snow/Wet) [Standard]
+    - Heated and cooled front seats [Standard]
+    - Leather-trimmed seats [Standard]
+    - Aluminum brake and accelerator pedals [Standard]
+    - Ambient lighting AM/FM stereo/single-CD player with 9 speakers and amplifier [Standard]
+    - Bright-finish door speaker surrounds [Standard]
+    - Dual-zone electronic automatic temperature control [Standard]
+    - Illuminated door-sill plates [Standard]
+    - Premium door-trim panel inserts [Standard]
+    - Satin Brush aluminum dash panel [Standard]
+    - SiriusXM Satellite Radio with 6-month trial subscription [Standard]
+    - SYNC with MyFord Touch voice-activated, in-vehicle connectivity system with 8" color LCD touch screen in center stack and media hub with USB port Universal garage door opener [Standard]
+    - 18" Magnetic-painted machined aluminum wheels with P235/50R18 all-season tires [Standard]
+    - Body-color power, heated sideview mirrors with integrated turn signal indicators [Standard]
+    - Pony projection lamps [Standard]
+    - Rear diffuser [Standard]
+  Package:  Equipment Group 201A (O)
+    - Shaker Pro Audio System with 12 speakers and amplifier, HD Radio Technology, drivers seat and sideview mirror memory feature, and BLIS (Blind Spot Information System) with cross-traffic alert [Standard]
+    - 6-speed SelectShift automatic transmission with steering wheel-mounted paddle shifters and Remote Start System [Optional]
+    - 18" Foundry Black-painted aluminum wheels with 235/50R18 all-season tires (n/a with 50 Years Appearance Package or EcoBoost Performance Package) [Optional]
+    - 20" x 9" Foundry Black-painted machined aluminum wheels with 265/35R20 summer-only tires2 (n/a with 50 Years Appearance Package or EcoBoost Performance Package) [Optional]
+  Package:  50 Years Appearance Package3 (O)
+    - includes 50 Years grille with bright surround, 19" premium Luster Nickel-painted aluminum wheels with 255/40R19 all-season tires, unique rear gas cap badge, Axle Spin aluminum dash panel, and unique seat and door-trim panel inserts (n/a with optional wheels, Premier Trim With Color Accent Group, RECARO seats, or spoiler delete) [Standard]
+    - Adaptive cruise control and collision warning with brake support, and rain-sensing windshield wipers [Optional]
+    - All-weather floor mats [Optional]
+  Package:  EcoBoost Performance Package3 (O)
+  Package:  Enhanced Security Package (O)
+  Package:  Premier Trim With Color Accent Group3 (O)
+    - includes Charcoal Black interior environment with coloraccented seats and unique door-trim panel inserts (n/a with 50 Years Appearance Package) [Standard]
+    - RECARO Ebony sport leather-trimmed seats with manual adjustment3 (fastback only; n/a with 50 Years Appearance Package, heated and cooled front seats or memory feature) [Optional]
+    - Reverse Sensing System Spare wheel and tire (n/a with 20" wheels or EcoBoost Performance Package) [Optional]
+    - Spoiler delete (n/a with 50 Years Appearance Package) [Optional]
+    - Voice-activated Navigation System with integrated SiriusXM Traffic and Travel Link services with 5-year subscription [Optional]
