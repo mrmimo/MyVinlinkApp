@@ -21,7 +21,7 @@ class Program
         var typeOption = new Option<string>(
             aliases: new[] { "--type", "-t", "/type" },
             getDefaultValue: () => "basic",
-            description: "Type of report (basic, enhanced, etc.)"
+            description: "Type of report (basic, basic_plus, enhanced, etc.)"
         );
         var rawOption = new Option<bool>(
             aliases: new[] { "--raw" },

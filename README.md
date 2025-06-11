@@ -36,7 +36,7 @@ MyVinlinkApp.exe 1J4PR5GK3AC144323 --type enhanced
 - Use `--raw` to display the full JSON response.
 
 ## Requirements
-- .NET 6.0 or newer
+- developed using .NET 9.0
 
 ## Development
 - Project uses [System.CommandLine](https://github.com/dotnet/command-line-api) for argument parsing
