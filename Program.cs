@@ -130,6 +130,26 @@ class Program
                                 PrintVehicleDetails(vehicle);
                             }
                         }
+
+                        // RECALLS section
+                        if (root.GetProperty("REPORTS").GetProperty("REPORT").TryGetProperty("RECALLS", out var recalls))
+                        {
+                            Console.WriteLine("\n[RECALLS]");
+                            if (recalls.TryGetProperty("RECALL", out var recallArray))
+                            {
+                                if (recallArray.ValueKind == JsonValueKind.Array)
+                                {
+                                    foreach (var recall in recallArray.EnumerateArray())
+                                    {
+                                        PrintRecall(recall);
+                                    }
+                                }
+                                else if (recallArray.ValueKind == JsonValueKind.Object)
+                                {
+                                    PrintRecall(recallArray);
+                                }
+                            }
+                        }
                     }
 
                     catch (Exception ex)
@@ -240,6 +260,16 @@ class Program
                 // Print all other VEHICLE fields (Make, Model, Model_Year, etc.)
                 Console.WriteLine($"{prop.Name,-30} : {prop.Value.GetString()}");
             }
+        }
+    }
+
+    // Helper to print RECALL details
+    private static void PrintRecall(JsonElement recall)
+    {
+        Console.WriteLine("--------------------");
+        foreach (var prop in recall.EnumerateObject())
+        {
+            Console.WriteLine($"{prop.Name,-20}: {prop.Value.GetString()}");
         }
     }
 }
